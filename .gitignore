@@ -1,6 +1,6 @@
 # Data files
 # data/  # Commented out to allow JSON files in repository
-# Uncomment the line above if you want to ignore data files again
+# Uncomment the line above (remove the #) if you want to ignore data files again
 
 # Python
 __pycache__/
