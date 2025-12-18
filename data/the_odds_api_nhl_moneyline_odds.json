@@ -1,0 +1,528 @@
+{
+  "source": "the_odds_api",
+  "content_type": "nhl_moneyline_odds",
+  "sport": "nhl",
+  "query_time": "2025-12-18T21:34:55.795888+00:00",
+  "kalshi_query_window_end": "2025-12-19T03:00:00+00:00",
+  "total_games": 29,
+  "matched_games": 1,
+  "games": [
+    {
+      "kalshi_data": {
+        "away_team": "Chicago Bulls",
+        "home_team": "Montreal",
+        "kalshi_title": "Chicago vs Montreal Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18CHIMTL",
+        "expiration_time": "2025-12-19T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Toronto Raptors",
+        "home_team": "Washington Wizards",
+        "kalshi_title": "Toronto vs Washington Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18TORWSH",
+        "expiration_time": "2025-12-19T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Edmonton",
+        "home_team": "Boston Celtics",
+        "kalshi_title": "Edmonton vs Boston Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18EDMBOS",
+        "expiration_time": "2025-12-19T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Minnesota Timberwolves",
+        "home_team": "Columbus",
+        "kalshi_title": "Minnesota vs Columbus Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18MINCBJ",
+        "expiration_time": "2025-12-19T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Los Angeles",
+        "home_team": "Tampa Bay Rays",
+        "kalshi_title": "Los Angeles vs Tampa Bay Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18LATB",
+        "expiration_time": "2025-12-19T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Pittsburgh Pirates",
+        "home_team": "Ottawa",
+        "kalshi_title": "Pittsburgh vs Ottawa Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18PITOTT",
+        "expiration_time": "2025-12-19T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Philadelphia 76ers",
+        "home_team": "Buffalo Bills",
+        "kalshi_title": "Philadelphia vs Buffalo Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18PHIBUF",
+        "expiration_time": "2025-12-19T03:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "New York R",
+        "home_team": "St. Louis Cardinals",
+        "kalshi_title": "New York R vs St. Louis Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18NYRSTL",
+        "expiration_time": "2025-12-19T04:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Seattle Mariners",
+        "home_team": "Calgary",
+        "kalshi_title": "Seattle vs Calgary Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18SEACGY",
+        "expiration_time": "2025-12-19T05:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Dallas Mavericks",
+        "home_team": "San Jose",
+        "kalshi_title": "Dallas vs San Jose Winner?",
+        "event_ticker": "KXNHLGAME-25DEC18DALSJ",
+        "expiration_time": "2025-12-19T06:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Vancouver",
+        "home_team": "New York I",
+        "kalshi_title": "Vancouver vs New York I Winner?",
+        "event_ticker": "KXNHLGAME-25DEC19VANNYI",
+        "expiration_time": "2025-12-20T03:00:00+00:00"
+      },
+      "odds_data": {
+        "id": "0df8989ee4ece4a1660d977ce80861d3",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2025-12-20T00:00:00Z",
+        "home_team": "New York Islanders",
+        "away_team": "Vancouver Canucks",
+        "bookmakers": [
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:34:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:15Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -148
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:03Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:03Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -137
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 114
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "mybookieag",
+            "title": "MyBookie.ag",
+            "last_update": "2025-12-18T21:34:15Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:15Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -145
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 114
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:02Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -142
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -145
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -140
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 123
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "lowvig",
+            "title": "LowVig.ag",
+            "last_update": "2025-12-18T21:34:01Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:01Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -140
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 123
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betus",
+            "title": "BetUS",
+            "last_update": "2025-12-18T21:34:16Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:16Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -140
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:27:32Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:27:32Z",
+                "outcomes": [
+                  {
+                    "name": "New York Islanders",
+                    "price": -140
+                  },
+                  {
+                    "name": "Vancouver Canucks",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Carolina Panthers",
+        "home_team": "Florida",
+        "kalshi_title": "Carolina vs Florida Winner?",
+        "event_ticker": "KXNHLGAME-25DEC19CARFLA",
+        "expiration_time": "2025-12-20T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Winnipeg",
+        "home_team": "Colorado Rockies",
+        "kalshi_title": "Winnipeg vs Colorado Winner?",
+        "event_ticker": "KXNHLGAME-25DEC19WPGCOL",
+        "expiration_time": "2025-12-20T05:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "New Jersey",
+        "home_team": "Utah Jazz",
+        "kalshi_title": "New Jersey vs Utah Winner?",
+        "event_ticker": "KXNHLGAME-25DEC19NJUTA",
+        "expiration_time": "2025-12-20T05:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Dallas Mavericks",
+        "home_team": "Anaheim",
+        "kalshi_title": "Dallas vs Anaheim Winner?",
+        "event_ticker": "KXNHLGAME-25DEC19DALANA",
+        "expiration_time": "2025-12-20T06:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Philadelphia 76ers",
+        "home_team": "New York R",
+        "kalshi_title": "Philadelphia vs New York R Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20PHINYR",
+        "expiration_time": "2025-12-20T20:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Detroit Pistons",
+        "home_team": "Washington Wizards",
+        "kalshi_title": "Detroit vs Washington Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20DETWSH",
+        "expiration_time": "2025-12-20T20:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Chicago Bulls",
+        "home_team": "Ottawa",
+        "kalshi_title": "Chicago vs Ottawa Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20CHIOTT",
+        "expiration_time": "2025-12-20T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Edmonton",
+        "home_team": "Minnesota Timberwolves",
+        "kalshi_title": "Edmonton vs Minnesota Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20EDMMIN",
+        "expiration_time": "2025-12-20T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "New York I",
+        "home_team": "Buffalo Bills",
+        "kalshi_title": "New York I vs Buffalo Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20NYIBUF",
+        "expiration_time": "2025-12-21T01:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "St. Louis Cardinals",
+        "home_team": "Florida",
+        "kalshi_title": "St. Louis vs Florida Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20STLFLA",
+        "expiration_time": "2025-12-21T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Pittsburgh Pirates",
+        "home_team": "Montreal",
+        "kalshi_title": "Pittsburgh vs Montreal Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20PITMTL",
+        "expiration_time": "2025-12-21T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Vancouver",
+        "home_team": "Boston Celtics",
+        "kalshi_title": "Vancouver vs Boston Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20VANBOS",
+        "expiration_time": "2025-12-21T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Carolina Panthers",
+        "home_team": "Tampa Bay Rays",
+        "kalshi_title": "Carolina vs Tampa Bay Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20CARTB",
+        "expiration_time": "2025-12-21T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Toronto Raptors",
+        "home_team": "Nashville",
+        "kalshi_title": "Toronto vs Nashville Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20TORNSH",
+        "expiration_time": "2025-12-21T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Seattle Mariners",
+        "home_team": "San Jose",
+        "kalshi_title": "Seattle vs San Jose Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20SEASJ",
+        "expiration_time": "2025-12-21T06:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Vegas",
+        "home_team": "Calgary",
+        "kalshi_title": "Vegas vs Calgary Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20VGKCGY",
+        "expiration_time": "2025-12-21T06:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Columbus",
+        "home_team": "Anaheim",
+        "kalshi_title": "Columbus vs Anaheim Winner?",
+        "event_ticker": "KXNHLGAME-25DEC20CBJANA",
+        "expiration_time": "2025-12-21T06:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Washington Wizards",
+        "home_team": "Detroit Pistons",
+        "kalshi_title": "Washington vs Detroit Winner?",
+        "event_ticker": "KXNHLGAME-25DEC21WSHDET",
+        "expiration_time": "2025-12-21T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    }
+  ]
+}

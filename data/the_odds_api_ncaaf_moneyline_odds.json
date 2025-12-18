@@ -1,0 +1,1121 @@
+{
+  "source": "the_odds_api",
+  "content_type": "ncaaf_moneyline_odds",
+  "sport": "ncaaf",
+  "query_time": "2025-12-18T21:34:52.902209+00:00",
+  "kalshi_query_window_end": "2025-12-19T05:00:00+00:00",
+  "total_games": 12,
+  "matched_games": 6,
+  "games": [
+    {
+      "kalshi_data": {
+        "away_team": "Missouri St.",
+        "home_team": "Arkansas St.",
+        "kalshi_title": "Missouri St. at Arkansas St. Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC18MOSUARST",
+        "expiration_time": "2025-12-19T05:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Kennesaw St.",
+        "home_team": "Western Michigan",
+        "kalshi_title": "Kennesaw St. at Western Michigan Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC19KENNWMU",
+        "expiration_time": "2025-12-19T19:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Memphis",
+        "home_team": "North Carolina St.",
+        "kalshi_title": "Memphis at North Carolina St. Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC19MEMNCST",
+        "expiration_time": "2025-12-19T22:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Alabama",
+        "home_team": "Oklahoma",
+        "kalshi_title": "Alabama at Oklahoma Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC19ALAOKLA",
+        "expiration_time": "2025-12-20T04:00:00+00:00"
+      },
+      "odds_data": {
+        "id": "5c1822bd971e75bf8eb736f083cfbd20",
+        "sport_key": "americanfootball_ncaaf",
+        "sport_title": "NCAAF",
+        "commence_time": "2025-12-20T01:00:00Z",
+        "home_team": "Oklahoma Sooners",
+        "away_team": "Alabama Crimson Tide",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:43Z",
+                "outcomes": [
+                  {
+                    "name": "Alabama Crimson Tide",
+                    "price": -104
+                  },
+                  {
+                    "name": "Oklahoma Sooners",
+                    "price": -112
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Alabama Crimson Tide",
+                    "price": -105
+                  },
+                  {
+                    "name": "Oklahoma Sooners",
+                    "price": -115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "Alabama Crimson Tide",
+                    "price": -105
+                  },
+                  {
+                    "name": "Oklahoma Sooners",
+                    "price": -115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Alabama Crimson Tide",
+                    "price": -105
+                  },
+                  {
+                    "name": "Oklahoma Sooners",
+                    "price": -115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:33:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:52Z",
+                "outcomes": [
+                  {
+                    "name": "Alabama Crimson Tide",
+                    "price": -107
+                  },
+                  {
+                    "name": "Oklahoma Sooners",
+                    "price": -117
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Miami (FL)",
+        "home_team": "Texas A&M",
+        "kalshi_title": "Miami (FL) at Texas A&M Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC20MIATXAM",
+        "expiration_time": "2025-12-20T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Tulane",
+        "home_team": "Ole Miss",
+        "kalshi_title": "Tulane at Ole Miss Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC20TULNMISS",
+        "expiration_time": "2025-12-20T23:30:00+00:00"
+      },
+      "odds_data": {
+        "id": "29dd5ea0c414ab7916d011fe1bd96892",
+        "sport_key": "americanfootball_ncaaf",
+        "sport_title": "NCAAF",
+        "commence_time": "2025-12-20T20:30:00Z",
+        "home_team": "Ole Miss Rebels",
+        "away_team": "Tulane Green Wave",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:43Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -900
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 610
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -1000
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 650
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -900
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 613
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -1000
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 625
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -900
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 575
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:33:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:52Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -910
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 575
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betus",
+            "title": "BetUS",
+            "last_update": "2025-12-18T21:34:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Ole Miss Rebels",
+                    "price": -900
+                  },
+                  {
+                    "name": "Tulane Green Wave",
+                    "price": 600
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "James Madison",
+        "home_team": "Oregon",
+        "kalshi_title": "James Madison at Oregon Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC20JMUORE",
+        "expiration_time": "2025-12-21T03:30:00+00:00"
+      },
+      "odds_data": {
+        "id": "cce1589adabc23fc7a9f036e143d61fd",
+        "sport_key": "americanfootball_ncaaf",
+        "sport_title": "NCAAF",
+        "commence_time": "2025-12-21T00:30:00Z",
+        "home_team": "Oregon Ducks",
+        "away_team": "James Madison Dukes",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:43Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2500
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "lowvig",
+            "title": "LowVig.ag",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 1041
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 1041
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 950
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:33:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:52Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 950
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betus",
+            "title": "BetUS",
+            "last_update": "2025-12-18T21:34:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 1050
+                  },
+                  {
+                    "name": "Oregon Ducks",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Washington St.",
+        "home_team": "Utah St.",
+        "kalshi_title": "Washington St. at Utah St. Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC22WSUUSU",
+        "expiration_time": "2025-12-22T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Toledo",
+        "home_team": "Louisville",
+        "kalshi_title": "Toledo at Louisville Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC23TOLLOU",
+        "expiration_time": "2025-12-23T22:00:00+00:00"
+      },
+      "odds_data": {
+        "id": "c49986aa8731de6e3c1723d9f8e91e02",
+        "sport_key": "americanfootball_ncaaf",
+        "sport_title": "NCAAF",
+        "commence_time": "2025-12-23T19:00:00Z",
+        "home_team": "Louisville Cardinals",
+        "away_team": "Toledo Rockets",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:44Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -235
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 190
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -238
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 195
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "lowvig",
+            "title": "LowVig.ag",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -240
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -240
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -250
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betus",
+            "title": "BetUS",
+            "last_update": "2025-12-18T21:34:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -250
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 210
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:33:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:52Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -250
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "Louisville Cardinals",
+                    "price": -245
+                  },
+                  {
+                    "name": "Toledo Rockets",
+                    "price": 205
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Western Kentucky",
+        "home_team": "Southern Miss",
+        "kalshi_title": "Western Kentucky at Southern Miss Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC23WKUUSM",
+        "expiration_time": "2025-12-24T01:30:00+00:00"
+      },
+      "odds_data": {
+        "id": "cb6e1250fee631fee65cd81bba1a2a0a",
+        "sport_key": "americanfootball_ncaaf",
+        "sport_title": "NCAAF",
+        "commence_time": "2025-12-23T22:30:00Z",
+        "home_team": "Southern Mississippi Golden Eagles",
+        "away_team": "Western Kentucky Hilltoppers",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 170
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -205
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:43Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 146
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -178
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "lowvig",
+            "title": "LowVig.ag",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 165
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -190
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 165
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -190
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 165
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betus",
+            "title": "BetUS",
+            "last_update": "2025-12-18T21:34:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 163
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -190
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:33:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:52Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 150
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -205
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "Southern Mississippi Golden Eagles",
+                    "price": 180
+                  },
+                  {
+                    "name": "Western Kentucky Hilltoppers",
+                    "price": -220
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UNLV",
+        "home_team": "Ohio",
+        "kalshi_title": "UNLV at Ohio Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC23UNLVOHIO",
+        "expiration_time": "2025-12-24T05:00:00+00:00"
+      },
+      "odds_data": {
+        "id": "f518da1ee37719512dc3a4de4631332c",
+        "sport_key": "americanfootball_ncaaf",
+        "sport_title": "NCAAF",
+        "commence_time": "2025-12-24T02:00:00Z",
+        "home_team": "Ohio Bobcats",
+        "away_team": "UNLV Rebels",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:34:44Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:44Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 198
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -245
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-18T21:34:05Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:05Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 200
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -245
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "lowvig",
+            "title": "LowVig.ag",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 215
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -260
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betonlineag",
+            "title": "BetOnline.ag",
+            "last_update": "2025-12-18T21:34:29Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:29Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 215
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -260
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-18T21:34:42Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 200
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -250
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betus",
+            "title": "BetUS",
+            "last_update": "2025-12-18T21:34:43Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:34:42Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 218
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -260
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:33:52Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:52Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 195
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -250
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:33:49Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:33:49Z",
+                "outcomes": [
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": 215
+                  },
+                  {
+                    "name": "UNLV Rebels",
+                    "price": -260
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
+    },
+    {
+      "kalshi_data": {
+        "away_team": "California",
+        "home_team": "Hawai'i",
+        "kalshi_title": "California at Hawai'i Winner?",
+        "event_ticker": "KXNCAAFGAME-25DEC24CALHAW",
+        "expiration_time": "2025-12-25T04:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    }
+  ]
+}
