@@ -2,7 +2,7 @@
   "source": "the_odds_api",
   "content_type": "ncaab_moneyline_odds",
   "sport": "ncaab",
-  "query_time": "2025-12-18T21:34:49.244060+00:00",
+  "query_time": "2025-12-18T21:50:55.587147+00:00",
   "kalshi_query_window_end": "2025-12-19T01:00:00+00:00",
   "total_games": 133,
   "matched_games": 24,
@@ -70,11 +70,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Radford Highlanders",
@@ -91,11 +91,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:25Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Radford Highlanders",
@@ -112,19 +112,19 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Radford Highlanders",
-                    "price": 245
+                    "price": 310
                   },
                   {
                     "name": "William & Mary Tribe",
-                    "price": -360
+                    "price": -420
                   }
                 ]
               }
@@ -133,11 +133,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Radford Highlanders",
@@ -154,11 +154,11 @@
           {
             "key": "bovada",
             "title": "Bovada",
-            "last_update": "2025-12-18T21:32:17Z",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:32:17Z",
+                "last_update": "2025-12-18T21:50:26Z",
                 "outcomes": [
                   {
                     "name": "Radford Highlanders",
@@ -206,11 +206,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:02Z",
+            "last_update": "2025-12-18T21:50:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:02Z",
+                "last_update": "2025-12-18T21:50:27Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -227,11 +227,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:27Z",
+            "last_update": "2025-12-18T21:50:42Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:27Z",
+                "last_update": "2025-12-18T21:50:42Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -248,11 +248,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -269,11 +269,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:25Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -290,11 +290,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:13Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -311,11 +311,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -330,13 +330,34 @@
             ]
           },
           {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Northern Arizona Lumberjacks",
+                    "price": -270
+                  },
+                  {
+                    "name": "Southern Utah Thunderbirds",
+                    "price": 220
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:50:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Northern Arizona Lumberjacks",
@@ -373,11 +394,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:02Z",
+            "last_update": "2025-12-18T21:50:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:02Z",
+                "last_update": "2025-12-18T21:50:27Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -394,11 +415,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:27Z",
+            "last_update": "2025-12-18T21:50:42Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:27Z",
+                "last_update": "2025-12-18T21:50:42Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -415,11 +436,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -436,11 +457,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:25Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -457,11 +478,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:13Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -478,11 +499,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -497,13 +518,34 @@
             ]
           },
           {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Furman Paladins",
+                    "price": -525
+                  },
+                  {
+                    "name": "Manhattan Jaspers",
+                    "price": 375
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:50:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Furman Paladins",
@@ -540,11 +582,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:02Z",
+            "last_update": "2025-12-18T21:50:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:02Z",
+                "last_update": "2025-12-18T21:50:27Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -561,11 +603,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:27Z",
+            "last_update": "2025-12-18T21:50:42Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:27Z",
+                "last_update": "2025-12-18T21:50:42Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -582,11 +624,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -603,11 +645,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -624,11 +666,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:25Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -645,11 +687,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:13Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -666,11 +708,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Davidson Wildcats",
@@ -679,6 +721,27 @@
                   {
                     "name": "Temple Owls",
                     "price": 155
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:50:26Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Davidson Wildcats",
+                    "price": -235
+                  },
+                  {
+                    "name": "Temple Owls",
+                    "price": 195
                   }
                 ]
               }
@@ -718,11 +781,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Charlotte 49ers",
@@ -739,11 +802,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Charlotte 49ers",
@@ -760,11 +823,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:25Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Charlotte 49ers",
@@ -781,11 +844,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Charlotte 49ers",
@@ -802,11 +865,11 @@
           {
             "key": "bovada",
             "title": "Bovada",
-            "last_update": "2025-12-18T21:32:17Z",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:32:17Z",
+                "last_update": "2025-12-18T21:50:26Z",
                 "outcomes": [
                   {
                     "name": "Charlotte 49ers",
@@ -843,11 +906,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "American Eagles",
@@ -864,11 +927,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "American Eagles",
@@ -885,11 +948,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:25Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "American Eagles",
@@ -906,11 +969,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "American Eagles",
@@ -1032,11 +1095,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "North Dakota Fighting Hawks",
@@ -1053,11 +1116,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:26Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "North Dakota Fighting Hawks",
@@ -1074,11 +1137,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "North Dakota Fighting Hawks",
@@ -1095,11 +1158,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "North Dakota Fighting Hawks",
@@ -1116,11 +1179,11 @@
           {
             "key": "bovada",
             "title": "Bovada",
-            "last_update": "2025-12-18T21:32:17Z",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:32:17Z",
+                "last_update": "2025-12-18T21:50:26Z",
                 "outcomes": [
                   {
                     "name": "North Dakota Fighting Hawks",
@@ -1157,11 +1220,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Oral Roberts Golden Eagles",
@@ -1178,11 +1241,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Oral Roberts Golden Eagles",
@@ -1199,11 +1262,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:26Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Oral Roberts Golden Eagles",
@@ -1251,11 +1314,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:02Z",
+            "last_update": "2025-12-18T21:50:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:02Z",
+                "last_update": "2025-12-18T21:50:27Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1272,11 +1335,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:27Z",
+            "last_update": "2025-12-18T21:50:42Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:27Z",
+                "last_update": "2025-12-18T21:50:42Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1293,11 +1356,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1314,11 +1377,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:26Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1335,11 +1398,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:13Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1354,13 +1417,34 @@
             ]
           },
           {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Louisiana Ragin' Cajuns",
+                    "price": 650
+                  },
+                  {
+                    "name": "Southern Miss Golden Eagles",
+                    "price": -1100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-18T21:50:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1377,11 +1461,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Louisiana Ragin' Cajuns",
@@ -1418,11 +1502,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:02Z",
+            "last_update": "2025-12-18T21:50:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:02Z",
+                "last_update": "2025-12-18T21:50:27Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1439,11 +1523,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:27Z",
+            "last_update": "2025-12-18T21:50:42Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:27Z",
+                "last_update": "2025-12-18T21:50:42Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1460,11 +1544,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1481,11 +1565,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:26Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1502,11 +1586,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:13Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1521,13 +1605,34 @@
             ]
           },
           {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Arkansas-Little Rock Trojans",
+                    "price": 120
+                  },
+                  {
+                    "name": "Southern Indiana Screaming Eagles",
+                    "price": -140
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:50:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1544,11 +1649,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Arkansas-Little Rock Trojans",
@@ -1596,11 +1701,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:02Z",
+            "last_update": "2025-12-18T21:50:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:02Z",
+                "last_update": "2025-12-18T21:50:27Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1617,11 +1722,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:27Z",
+            "last_update": "2025-12-18T21:50:42Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:27Z",
+                "last_update": "2025-12-18T21:50:42Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1638,11 +1743,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:12Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1659,11 +1764,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:26Z",
+            "last_update": "2025-12-18T21:50:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:26Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1680,11 +1785,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:13Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1699,13 +1804,34 @@
             ]
           },
           {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:13Z",
+            "key": "bovada",
+            "title": "Bovada",
+            "last_update": "2025-12-18T21:50:26Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:13Z",
+                "last_update": "2025-12-18T21:50:26Z",
+                "outcomes": [
+                  {
+                    "name": "Lindenwood Lions",
+                    "price": -950
+                  },
+                  {
+                    "name": "Western Illinois Leathernecks",
+                    "price": 600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-18T21:50:40Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1713,7 +1839,7 @@
                   },
                   {
                     "name": "Western Illinois Leathernecks",
-                    "price": 550
+                    "price": 540
                   }
                 ]
               }
@@ -1722,11 +1848,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Lindenwood Lions",
@@ -1807,11 +1933,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Dartmouth Big Green",
@@ -1936,11 +2062,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Providence Friars",
@@ -1957,11 +2083,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Providence Friars",
@@ -2050,11 +2176,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Tulsa Golden Hurricane",
@@ -2113,11 +2239,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:39Z",
                 "outcomes": [
                   {
                     "name": "Villanova Wildcats",
@@ -2176,11 +2302,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:38Z",
+            "last_update": "2025-12-18T21:50:13Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:38Z",
+                "last_update": "2025-12-18T21:50:12Z",
                 "outcomes": [
                   {
                     "name": "Belmont Bruins",
@@ -2236,11 +2362,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Loyola Marymount Lions",
@@ -2277,19 +2403,19 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Florida Atlantic Owls",
-                    "price": 810
+                    "price": 860
                   },
                   {
                     "name": "Saint Mary's Gaels",
-                    "price": -1450
+                    "price": -1600
                   }
                 ]
               }
@@ -2329,11 +2455,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "San Diego Toreros",
@@ -2370,11 +2496,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:14Z",
+            "last_update": "2025-12-18T21:50:40Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:14Z",
+                "last_update": "2025-12-18T21:50:40Z",
                 "outcomes": [
                   {
                     "name": "Cal Poly Mustangs",

@@ -11,7 +11,8 @@ DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 
 # The Odds API configuration
 ODDS_API_BASE_URL = "https://api.the-odds-api.com/v4"
-ODDS_API_KEY = os.getenv("ODDS_API_KEY")
+# TODO: Remove hardcoded API key before production/deployment
+ODDS_API_KEY = os.getenv("ODDS_API_KEY") or "d77d2e63a1e5fb8832317d1058c996a1"
 
 # Sport configuration
 SPORT_CONFIG = {

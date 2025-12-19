@@ -43,7 +43,8 @@ def main():
     print("=" * 80)
     
     # Check if API key is set
-    api_key = os.getenv("ODDS_API_KEY")
+    # TODO: Remove hardcoded API key before production/deployment
+    api_key = os.getenv("ODDS_API_KEY") or "d77d2e63a1e5fb8832317d1058c996a1"
     if not api_key:
         print("\n⚠ WARNING: ODDS_API_KEY environment variable is not set!")
         print("Sportsbook odds fetching will fail without the API key.")

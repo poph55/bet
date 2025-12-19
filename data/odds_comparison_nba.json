@@ -2,7 +2,7 @@
   "source": "odds_comparison",
   "content_type": "positive_ev_opportunities",
   "sport": "nba",
-  "query_time": "2025-12-18T21:35:03.818043+00:00",
+  "query_time": "2025-12-18T21:51:47.671434+00:00",
   "total_opportunities": 2,
   "opportunities": [
     {
@@ -19,12 +19,12 @@
       "home_platform_name": null,
       "away_kalshi_prob": 11,
       "home_kalshi_prob": 90,
-      "away_sportsbook_prob": 12.51564455569462,
-      "home_sportsbook_prob": 91.80999180999181,
-      "away_prob_normalized": 11.996710484299637,
-      "home_prob_normalized": 88.00328951570037,
-      "avg_away_odds": 699.89,
-      "avg_home_odds": -1121.0,
+      "away_sportsbook_prob": 12.468827930174564,
+      "home_sportsbook_prob": 91.889699918897,
+      "away_prob_normalized": 11.948068056505738,
+      "home_prob_normalized": 88.05193194349425,
+      "avg_away_odds": 702.67,
+      "avg_home_odds": -1133.78,
       "away_bookmaker_count": 9,
       "home_bookmaker_count": 9,
       "away_payout": {
@@ -34,7 +34,7 @@
       "home_payout": null,
       "net_if_away_wins": 800.0,
       "net_if_home_wins": -100.0,
-      "expected_value": 7.97,
+      "expected_value": 7.53,
       "total_investment": 100.0
     },
     {
@@ -51,12 +51,12 @@
       "home_platform_name": "Kalshi",
       "away_kalshi_prob": 78,
       "home_kalshi_prob": 23,
-      "away_sportsbook_prob": 79.16666666666666,
-      "home_sportsbook_prob": 25.062656641604008,
-      "away_prob_normalized": 75.95431319507064,
-      "home_prob_normalized": 24.045686804929367,
-      "avg_away_odds": -380.0,
-      "avg_home_odds": 299.33,
+      "away_sportsbook_prob": 79.25311203319502,
+      "home_sportsbook_prob": 24.93765586034913,
+      "away_prob_normalized": 76.06538816776077,
+      "home_prob_normalized": 23.934611832239227,
+      "avg_away_odds": -382.78,
+      "avg_home_odds": 301.0,
       "away_bookmaker_count": 9,
       "home_bookmaker_count": 9,
       "away_payout": null,
@@ -66,7 +66,7 @@
       },
       "net_if_away_wins": -100.0,
       "net_if_home_wins": 330.43,
-      "expected_value": 3.5,
+      "expected_value": 3.02,
       "total_investment": 100.0
     }
   ]

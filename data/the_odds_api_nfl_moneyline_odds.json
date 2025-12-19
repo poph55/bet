@@ -2,7 +2,7 @@
   "source": "the_odds_api",
   "content_type": "nfl_moneyline_odds",
   "sport": "nfl",
-  "query_time": "2025-12-18T21:34:43.837845+00:00",
+  "query_time": "2025-12-18T21:50:50.091792+00:00",
   "kalshi_query_window_end": "2025-12-19T04:15:00+00:00",
   "total_games": 17,
   "matched_games": 1,
@@ -180,11 +180,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:34:03Z",
+            "last_update": "2025-12-18T21:50:29Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:03Z",
+                "last_update": "2025-12-18T21:50:29Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -201,11 +201,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:34:05Z",
+            "last_update": "2025-12-18T21:50:18Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:04Z",
+                "last_update": "2025-12-18T21:50:18Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -222,11 +222,11 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:34:30Z",
+            "last_update": "2025-12-18T21:50:16Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:30Z",
+                "last_update": "2025-12-18T21:50:16Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -243,11 +243,11 @@
           {
             "key": "mybookieag",
             "title": "MyBookie.ag",
-            "last_update": "2025-12-18T21:32:35Z",
+            "last_update": "2025-12-18T21:49:49Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:32:35Z",
+                "last_update": "2025-12-18T21:49:49Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -264,11 +264,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:34:05Z",
+            "last_update": "2025-12-18T21:50:17Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:05Z",
+                "last_update": "2025-12-18T21:50:17Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -285,11 +285,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:34:33Z",
+            "last_update": "2025-12-18T21:50:29Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:33Z",
+                "last_update": "2025-12-18T21:50:29Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -306,11 +306,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:34:05Z",
+            "last_update": "2025-12-18T21:50:04Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:05Z",
+                "last_update": "2025-12-18T21:50:04Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -327,11 +327,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:34:05Z",
+            "last_update": "2025-12-18T21:50:18Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:04Z",
+                "last_update": "2025-12-18T21:50:18Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -348,11 +348,11 @@
           {
             "key": "bovada",
             "title": "Bovada",
-            "last_update": "2025-12-18T21:34:16Z",
+            "last_update": "2025-12-18T21:50:43Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:34:16Z",
+                "last_update": "2025-12-18T21:50:43Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
