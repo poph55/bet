@@ -2,22 +2,11 @@
   "source": "the_odds_api",
   "content_type": "nfl_moneyline_odds",
   "sport": "nfl",
-  "query_time": "2025-12-18T21:50:50.091792+00:00",
-  "kalshi_query_window_end": "2025-12-19T04:15:00+00:00",
-  "total_games": 17,
+  "query_time": "2025-12-20T06:56:04.826774+00:00",
+  "kalshi_query_window_end": "2025-12-21T01:00:00+00:00",
+  "total_games": 18,
   "matched_games": 1,
   "games": [
-    {
-      "kalshi_data": {
-        "away_team": "Los Angeles Rams",
-        "home_team": "Seattle Mariners",
-        "kalshi_title": "Los Angeles R at Seattle Winner?",
-        "event_ticker": "KXNFLGAME-25DEC18LASEA",
-        "expiration_time": "2025-12-19T04:15:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
     {
       "kalshi_data": {
         "away_team": "Philadelphia 76ers",
@@ -180,11 +169,11 @@
           {
             "key": "draftkings",
             "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:29Z",
+            "last_update": "2025-12-20T06:55:39Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:29Z",
+                "last_update": "2025-12-20T06:55:39Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -201,11 +190,11 @@
           {
             "key": "betus",
             "title": "BetUS",
-            "last_update": "2025-12-18T21:50:18Z",
+            "last_update": "2025-12-20T06:55:28Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:18Z",
+                "last_update": "2025-12-20T06:55:28Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -222,19 +211,19 @@
           {
             "key": "fanduel",
             "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:16Z",
+            "last_update": "2025-12-20T06:55:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:16Z",
+                "last_update": "2025-12-20T06:55:27Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
-                    "price": -154
+                    "price": -158
                   },
                   {
                     "name": "New England Patriots",
-                    "price": 130
+                    "price": 134
                   }
                 ]
               }
@@ -243,19 +232,19 @@
           {
             "key": "mybookieag",
             "title": "MyBookie.ag",
-            "last_update": "2025-12-18T21:49:49Z",
+            "last_update": "2025-12-20T06:54:17Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:49:49Z",
+                "last_update": "2025-12-20T06:54:17Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
-                    "price": -167
+                    "price": -162
                   },
                   {
                     "name": "New England Patriots",
-                    "price": 130
+                    "price": 132
                   }
                 ]
               }
@@ -264,11 +253,11 @@
           {
             "key": "lowvig",
             "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:17Z",
+            "last_update": "2025-12-20T06:56:04Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:17Z",
+                "last_update": "2025-12-20T06:56:04Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -285,11 +274,11 @@
           {
             "key": "betonlineag",
             "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:29Z",
+            "last_update": "2025-12-20T06:55:28Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:29Z",
+                "last_update": "2025-12-20T06:55:28Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -306,11 +295,11 @@
           {
             "key": "betrivers",
             "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:04Z",
+            "last_update": "2025-12-20T06:55:03Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:04Z",
+                "last_update": "2025-12-20T06:55:03Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -327,11 +316,11 @@
           {
             "key": "betmgm",
             "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:18Z",
+            "last_update": "2025-12-20T06:55:27Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:18Z",
+                "last_update": "2025-12-20T06:55:27Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
@@ -348,19 +337,19 @@
           {
             "key": "bovada",
             "title": "Bovada",
-            "last_update": "2025-12-18T21:50:43Z",
+            "last_update": "2025-12-20T06:55:06Z",
             "markets": [
               {
                 "key": "h2h",
-                "last_update": "2025-12-18T21:50:43Z",
+                "last_update": "2025-12-20T06:55:06Z",
                 "outcomes": [
                   {
                     "name": "Baltimore Ravens",
-                    "price": -165
+                    "price": -160
                   },
                   {
                     "name": "New England Patriots",
-                    "price": 140
+                    "price": 135
                   }
                 ]
               }
@@ -388,6 +377,28 @@
         "kalshi_title": "Dallas at Washington Winner?",
         "event_ticker": "KXNFLGAME-25DEC25DALWAS",
         "expiration_time": "2025-12-25T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Detroit Pistons",
+        "home_team": "Minnesota Timberwolves",
+        "kalshi_title": "Detroit at Minnesota Winner?",
+        "event_ticker": "KXNFLGAME-25DEC25DETMIN",
+        "expiration_time": "2025-12-26T00:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Denver Nuggets",
+        "home_team": "Kansas City Royals",
+        "kalshi_title": "Denver at Kansas City Winner?",
+        "event_ticker": "KXNFLGAME-25DEC25DENKC",
+        "expiration_time": "2025-12-26T04:15:00+00:00"
       },
       "odds_data": null,
       "matched": false

@@ -2,2522 +2,11 @@
   "source": "the_odds_api",
   "content_type": "ncaab_moneyline_odds",
   "sport": "ncaab",
-  "query_time": "2025-12-18T21:50:55.587147+00:00",
-  "kalshi_query_window_end": "2025-12-19T01:00:00+00:00",
-  "total_games": 133,
-  "matched_games": 24,
+  "query_time": "2025-12-20T06:56:10.122257+00:00",
+  "kalshi_query_window_end": "2025-12-20T07:30:00+00:00",
+  "total_games": 142,
+  "matched_games": 36,
   "games": [
-    {
-      "kalshi_data": {
-        "away_team": "Jackson St.",
-        "home_team": "Hampton",
-        "kalshi_title": "Jackson St. at Hampton Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18JKSTHAMP",
-        "expiration_time": "2025-12-19T01:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "SIU Edwardsville",
-        "home_team": "Eastern Illinois",
-        "kalshi_title": "SIU Edwardsville at Eastern Illinois Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18SIUEEIU",
-        "expiration_time": "2025-12-19T02:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Morris College",
-        "home_team": "UNC Asheville",
-        "kalshi_title": "Morris College at UNC Asheville Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18MCUNCA",
-        "expiration_time": "2025-12-19T02:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Coastal Carolina",
-        "home_team": "Appalachian St.",
-        "kalshi_title": "Coastal Carolina at Appalachian St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18CCARAPP",
-        "expiration_time": "2025-12-19T02:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Radford",
-        "home_team": "William & Mary",
-        "kalshi_title": "Radford at William & Mary Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18RADWM",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "c5cf2fc8a5b947707cbad34237d13256",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "William & Mary Tribe",
-        "away_team": "Radford Highlanders",
-        "bookmakers": [
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Radford Highlanders",
-                    "price": 330
-                  },
-                  {
-                    "name": "William & Mary Tribe",
-                    "price": -425
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Radford Highlanders",
-                    "price": 290
-                  },
-                  {
-                    "name": "William & Mary Tribe",
-                    "price": -375
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Radford Highlanders",
-                    "price": 310
-                  },
-                  {
-                    "name": "William & Mary Tribe",
-                    "price": -420
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Radford Highlanders",
-                    "price": 320
-                  },
-                  {
-                    "name": "William & Mary Tribe",
-                    "price": -430
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Radford Highlanders",
-                    "price": 295
-                  },
-                  {
-                    "name": "William & Mary Tribe",
-                    "price": -390
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Delaware St.",
-        "home_team": "Saint Joseph's",
-        "kalshi_title": "Delaware St. at Saint Joseph's Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18DSUJOES",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Southern Utah",
-        "home_team": "Northern Arizona",
-        "kalshi_title": "Southern Utah at Northern Arizona Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18SUUNAU",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "96bff55467873c3f0d45a8b0af7a6f25",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "Northern Arizona Lumberjacks",
-        "away_team": "Southern Utah Thunderbirds",
-        "bookmakers": [
-          {
-            "key": "betonlineag",
-            "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:27Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:27Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -275
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 226
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "lowvig",
-            "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:42Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:42Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -275
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 226
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -270
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 220
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -275
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 220
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betus",
-            "title": "BetUS",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:13Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -275
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 230
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -295
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 220
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -270
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 220
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Northern Arizona Lumberjacks",
-                    "price": -300
-                  },
-                  {
-                    "name": "Southern Utah Thunderbirds",
-                    "price": 235
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Furman",
-        "home_team": "Manhattan",
-        "kalshi_title": "Furman at Manhattan Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18FURMAN",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "b7bfb56c16283621c07bbc856f6219e4",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "Manhattan Jaspers",
-        "away_team": "Furman Paladins",
-        "bookmakers": [
-          {
-            "key": "betonlineag",
-            "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:27Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:27Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -480
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 370
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "lowvig",
-            "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:42Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:42Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -480
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 370
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -500
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 380
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -500
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 375
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betus",
-            "title": "BetUS",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:13Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -480
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 378
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -455
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 330
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -525
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 375
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Furman Paladins",
-                    "price": -590
-                  },
-                  {
-                    "name": "Manhattan Jaspers",
-                    "price": 410
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Temple",
-        "home_team": "Davidson",
-        "kalshi_title": "Temple at Davidson Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18TEMDAV",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "4cd7d086d9b0b7384fea26bbe004360a",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "Davidson Wildcats",
-        "away_team": "Temple Owls",
-        "bookmakers": [
-          {
-            "key": "betonlineag",
-            "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:27Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:27Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -205
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 177
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "lowvig",
-            "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:42Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:42Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -205
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 177
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -230
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 188
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -205
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 170
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -200
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 165
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betus",
-            "title": "BetUS",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:13Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -205
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 175
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -210
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 155
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Davidson Wildcats",
-                    "price": -235
-                  },
-                  {
-                    "name": "Temple Owls",
-                    "price": 195
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Bradley",
-        "home_team": "Indiana St.",
-        "kalshi_title": "Bradley at Indiana St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18BRADINST",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Lafayette",
-        "home_team": "Charlotte",
-        "kalshi_title": "Lafayette at Charlotte Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18LAFCHAR",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "b0c58afb9a52c3553dde649e6087d80b",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "Charlotte 49ers",
-        "away_team": "Lafayette Leopards",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Charlotte 49ers",
-                    "price": -750
-                  },
-                  {
-                    "name": "Lafayette Leopards",
-                    "price": 520
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Charlotte 49ers",
-                    "price": -625
-                  },
-                  {
-                    "name": "Lafayette Leopards",
-                    "price": 455
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Charlotte 49ers",
-                    "price": -625
-                  },
-                  {
-                    "name": "Lafayette Leopards",
-                    "price": 450
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Charlotte 49ers",
-                    "price": -625
-                  },
-                  {
-                    "name": "Lafayette Leopards",
-                    "price": 420
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Charlotte 49ers",
-                    "price": -650
-                  },
-                  {
-                    "name": "Lafayette Leopards",
-                    "price": 450
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "American",
-        "home_team": "VCU",
-        "kalshi_title": "American at VCU Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18AMERVCU",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "989603c41d504b7fdd842ef7210de2f2",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "VCU Rams",
-        "away_team": "American Eagles",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "American Eagles",
-                    "price": 1400
-                  },
-                  {
-                    "name": "VCU Rams",
-                    "price": -4000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "American Eagles",
-                    "price": 1400
-                  },
-                  {
-                    "name": "VCU Rams",
-                    "price": -3200
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "American Eagles",
-                    "price": 1300
-                  },
-                  {
-                    "name": "VCU Rams",
-                    "price": -3000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "American Eagles",
-                    "price": 1000
-                  },
-                  {
-                    "name": "VCU Rams",
-                    "price": -2500
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Fairfield",
-        "home_team": "Central Connecticut St.",
-        "kalshi_title": "Fairfield at Central Connecticut St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18FAIRCCSU",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Penn State-Hazleton",
-        "home_team": "Lehigh",
-        "kalshi_title": "Penn State-Hazleton at Lehigh Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18PSHZLEH",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Western Carolina",
-        "home_team": "Georgia",
-        "kalshi_title": "Western Carolina at Georgia Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18WCUUGA",
-        "expiration_time": "2025-12-19T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "9fdce01ea2542ae1842e48afc0cbe2c1",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T00:00:00Z",
-        "home_team": "Georgia Bulldogs",
-        "away_team": "Western Carolina Catamounts",
-        "bookmakers": []
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Grambling St.",
-        "home_team": "Norfolk St.",
-        "kalshi_title": "Grambling St. at Norfolk St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18GRAMNORF",
-        "expiration_time": "2025-12-19T03:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Georgia St.",
-        "home_team": "Georgia Southern",
-        "kalshi_title": "Georgia St. at Georgia Southern Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18GASTGASO",
-        "expiration_time": "2025-12-19T04:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Drake",
-        "home_team": "Murray St.",
-        "kalshi_title": "Drake at Murray St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18DRKEMURR",
-        "expiration_time": "2025-12-19T04:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Kansas City",
-        "home_team": "Oklahoma St.",
-        "kalshi_title": "Kansas City at Oklahoma St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18UMKCOKST",
-        "expiration_time": "2025-12-19T04:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Winthrop",
-        "home_team": "North Dakota",
-        "kalshi_title": "Winthrop at North Dakota Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18WINUND",
-        "expiration_time": "2025-12-19T04:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "2f087075a2154edc476709c619c817fe",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T01:00:00Z",
-        "home_team": "North Dakota Fighting Hawks",
-        "away_team": "Winthrop Eagles",
-        "bookmakers": [
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "North Dakota Fighting Hawks",
-                    "price": 600
-                  },
-                  {
-                    "name": "Winthrop Eagles",
-                    "price": -900
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "North Dakota Fighting Hawks",
-                    "price": 575
-                  },
-                  {
-                    "name": "Winthrop Eagles",
-                    "price": -900
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "North Dakota Fighting Hawks",
-                    "price": 475
-                  },
-                  {
-                    "name": "Winthrop Eagles",
-                    "price": -715
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "North Dakota Fighting Hawks",
-                    "price": 630
-                  },
-                  {
-                    "name": "Winthrop Eagles",
-                    "price": -1050
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "North Dakota Fighting Hawks",
-                    "price": 575
-                  },
-                  {
-                    "name": "Winthrop Eagles",
-                    "price": -900
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Oral Roberts",
-        "home_team": "TCU",
-        "kalshi_title": "Oral Roberts at TCU Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18ORUTCU",
-        "expiration_time": "2025-12-19T04:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "12fa7c78d31f8bbc705f9a7ef3c62f74",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T01:00:00Z",
-        "home_team": "TCU Horned Frogs",
-        "away_team": "Oral Roberts Golden Eagles",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Oral Roberts Golden Eagles",
-                    "price": 2500
-                  },
-                  {
-                    "name": "TCU Horned Frogs",
-                    "price": -10000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Oral Roberts Golden Eagles",
-                    "price": 2200
-                  },
-                  {
-                    "name": "TCU Horned Frogs",
-                    "price": -8000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Oral Roberts Golden Eagles",
-                    "price": 2500
-                  },
-                  {
-                    "name": "TCU Horned Frogs",
-                    "price": -10000
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Tennessee-Martin",
-        "home_team": "Tennessee St.",
-        "kalshi_title": "Tennessee-Martin at Tennessee St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18UTMTNST",
-        "expiration_time": "2025-12-19T04:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Louisiana",
-        "home_team": "Southern Miss",
-        "kalshi_title": "Louisiana at Southern Miss Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18ULLUSM",
-        "expiration_time": "2025-12-19T04:30:00+00:00"
-      },
-      "odds_data": {
-        "id": "989278b85dcd2eb214f35966c97fbcf2",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T01:30:00Z",
-        "home_team": "Southern Miss Golden Eagles",
-        "away_team": "Louisiana Ragin' Cajuns",
-        "bookmakers": [
-          {
-            "key": "betonlineag",
-            "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:27Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:27Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 709
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1100
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "lowvig",
-            "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:42Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:42Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 709
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1100
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 750
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1200
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 725
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1200
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betus",
-            "title": "BetUS",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:13Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 700
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1100
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 650
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1100
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 800
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1400
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Louisiana Ragin' Cajuns",
-                    "price": 650
-                  },
-                  {
-                    "name": "Southern Miss Golden Eagles",
-                    "price": -1115
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Little Rock",
-        "home_team": "Southern Indiana",
-        "kalshi_title": "Little Rock at Southern Indiana Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18UALRUSI",
-        "expiration_time": "2025-12-19T04:30:00+00:00"
-      },
-      "odds_data": {
-        "id": "f617e58567654a61115ea598c84d3c8b",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T01:30:00Z",
-        "home_team": "Southern Indiana Screaming Eagles",
-        "away_team": "Arkansas-Little Rock Trojans",
-        "bookmakers": [
-          {
-            "key": "betonlineag",
-            "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:27Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:27Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 110
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -130
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "lowvig",
-            "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:42Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:42Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 110
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -130
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 114
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -135
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 115
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -140
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betus",
-            "title": "BetUS",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:13Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 110
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -130
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 120
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -140
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 123
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -165
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Arkansas-Little Rock Trojans",
-                    "price": 120
-                  },
-                  {
-                    "name": "Southern Indiana Screaming Eagles",
-                    "price": -148
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Southeast Missouri St.",
-        "home_team": "Tennessee Tech",
-        "kalshi_title": "Southeast Missouri St. at Tennessee Tech Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18SEMOTNTC",
-        "expiration_time": "2025-12-19T04:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Western Illinois",
-        "home_team": "Lindenwood",
-        "kalshi_title": "Western Illinois at Lindenwood Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18WIULINW",
-        "expiration_time": "2025-12-19T04:30:00+00:00"
-      },
-      "odds_data": {
-        "id": "208b484df572bf1303182fbb18603617",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T01:30:00Z",
-        "home_team": "Lindenwood Lions",
-        "away_team": "Western Illinois Leathernecks",
-        "bookmakers": [
-          {
-            "key": "betonlineag",
-            "title": "BetOnline.ag",
-            "last_update": "2025-12-18T21:50:27Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:27Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -950
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 637
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "lowvig",
-            "title": "LowVig.ag",
-            "last_update": "2025-12-18T21:50:42Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:42Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -950
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 637
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:12Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -950
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 625
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betmgm",
-            "title": "BetMGM",
-            "last_update": "2025-12-18T21:50:39Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -1000
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 625
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betus",
-            "title": "BetUS",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:13Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -950
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 630
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "bovada",
-            "title": "Bovada",
-            "last_update": "2025-12-18T21:50:26Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:26Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -950
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 600
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "betrivers",
-            "title": "BetRivers",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -910
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 540
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Lindenwood Lions",
-                    "price": -1250
-                  },
-                  {
-                    "name": "Western Illinois Leathernecks",
-                    "price": 710
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Montana-Western",
-        "home_team": "Idaho St.",
-        "kalshi_title": "Montana-Western at Idaho St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18UMWIDST",
-        "expiration_time": "2025-12-19T05:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Illinois St.",
-        "home_team": "Southern Illinois",
-        "kalshi_title": "Illinois St. at Southern Illinois Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18ILSTSIU",
-        "expiration_time": "2025-12-19T05:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Nobel",
-        "home_team": "Cal State Bakersfield",
-        "kalshi_title": "Nobel at Cal State Bakersfield Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18NUKCSB",
-        "expiration_time": "2025-12-19T05:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Pepperdine",
-        "home_team": "Long Beach St.",
-        "kalshi_title": "Pepperdine at Long Beach St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC18PEPPLBSU",
-        "expiration_time": "2025-12-19T06:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Dartmouth",
-        "home_team": "Sacred Heart",
-        "kalshi_title": "Dartmouth at Sacred Heart Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19DARTSHU",
-        "expiration_time": "2025-12-19T19:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "9dbf5fefb24f63f6dde1146ba34a9b51",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T16:00:00Z",
-        "home_team": "Sacred Heart Pioneers",
-        "away_team": "Dartmouth Big Green",
-        "bookmakers": [
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Dartmouth Big Green",
-                    "price": -102
-                  },
-                  {
-                    "name": "Sacred Heart Pioneers",
-                    "price": -118
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Brewton-Parker College",
-        "home_team": "South Carolina St.",
-        "kalshi_title": "Brewton-Parker College at South Carolina St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19BPCSCST",
-        "expiration_time": "2025-12-19T20:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Reinhardt",
-        "home_team": "Samford",
-        "kalshi_title": "Reinhardt at Samford Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19REINSAM",
-        "expiration_time": "2025-12-19T21:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Lehman",
-        "home_team": "FDU",
-        "kalshi_title": "Lehman at FDU Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19LHCFDU",
-        "expiration_time": "2025-12-19T23:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Hampton",
-        "home_team": "Grambling St.",
-        "kalshi_title": "Hampton at Grambling St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19HAMPGRAM",
-        "expiration_time": "2025-12-20T01:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Coppin St.",
-        "home_team": "Navy",
-        "kalshi_title": "Coppin St. at Navy Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19COPPNAVY",
-        "expiration_time": "2025-12-20T01:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "South Dakota St.",
-        "home_team": "Milwaukee",
-        "kalshi_title": "South Dakota St. at Milwaukee Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19SDSTMILW",
-        "expiration_time": "2025-12-20T01:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "La Sierra",
-        "home_team": "Cal State Northridge",
-        "kalshi_title": "La Sierra at Cal State Northridge Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19LASCSN",
-        "expiration_time": "2025-12-20T01:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Notre Dame of Maryland",
-        "home_team": "Towson",
-        "kalshi_title": "Notre Dame of Maryland at Towson Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19NDMUTOWS",
-        "expiration_time": "2025-12-20T02:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Seton Hall",
-        "home_team": "Providence",
-        "kalshi_title": "Seton Hall at Providence Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19HALLPROV",
-        "expiration_time": "2025-12-20T02:30:00+00:00"
-      },
-      "odds_data": {
-        "id": "762542fd10d47cb9333923f6849ac441",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-19T23:30:00Z",
-        "home_team": "Providence Friars",
-        "away_team": "Seton Hall Pirates",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Providence Friars",
-                    "price": -140
-                  },
-                  {
-                    "name": "Seton Hall Pirates",
-                    "price": 116
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Providence Friars",
-                    "price": -155
-                  },
-                  {
-                    "name": "Seton Hall Pirates",
-                    "price": 130
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Eastern Michigan",
-        "home_team": "Akron",
-        "kalshi_title": "Eastern Michigan at Akron Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19EMUAKR",
-        "expiration_time": "2025-12-20T03:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "f747d59345088120cd915906a60d231b",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T00:00:00Z",
-        "home_team": "Akron Zips",
-        "away_team": "Eastern Michigan Eagles",
-        "bookmakers": []
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Mount St. Mary's",
-        "home_team": "Drexel",
-        "kalshi_title": "Mount St. Mary's at Drexel Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19MSMDREX",
-        "expiration_time": "2025-12-20T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Mississippi Valley St.",
-        "home_team": "Florida St.",
-        "kalshi_title": "Mississippi Valley St. at Florida St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19MVSUFSU",
-        "expiration_time": "2025-12-20T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "La Salle",
-        "home_team": "High Point",
-        "kalshi_title": "La Salle at High Point Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19LASHP",
-        "expiration_time": "2025-12-20T03:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Tulsa",
-        "home_team": "Western Kentucky",
-        "kalshi_title": "Tulsa at Western Kentucky Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19TLSAWKU",
-        "expiration_time": "2025-12-20T03:30:00+00:00"
-      },
-      "odds_data": {
-        "id": "74f8b69dc684c3eb26fde3a34a8c8df0",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T00:30:00Z",
-        "home_team": "Western Kentucky Hilltoppers",
-        "away_team": "Tulsa Golden Hurricane",
-        "bookmakers": [
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Tulsa Golden Hurricane",
-                    "price": -142
-                  },
-                  {
-                    "name": "Western Kentucky Hilltoppers",
-                    "price": 120
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Norfolk St.",
-        "home_team": "Jackson St.",
-        "kalshi_title": "Norfolk St. at Jackson St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19NORFJKST",
-        "expiration_time": "2025-12-20T03:30:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Florida A&M",
-        "home_team": "Tarleton St.",
-        "kalshi_title": "Florida A&M at Tarleton St. Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19FAMUTARL",
-        "expiration_time": "2025-12-20T04:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Villanova",
-        "home_team": "Wisconsin",
-        "kalshi_title": "Villanova at Wisconsin Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19VILLWIS",
-        "expiration_time": "2025-12-20T04:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "1924189848cc253ee220ef2a61d0cdfc",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T01:00:00Z",
-        "home_team": "Wisconsin Badgers",
-        "away_team": "Villanova Wildcats",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:39Z",
-                "outcomes": [
-                  {
-                    "name": "Villanova Wildcats",
-                    "price": 172
-                  },
-                  {
-                    "name": "Wisconsin Badgers",
-                    "price": -210
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Alcorn St.",
-        "home_team": "Baylor",
-        "kalshi_title": "Alcorn St. at Baylor Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19ALCNBAY",
-        "expiration_time": "2025-12-20T04:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Southeastern Louisiana",
-        "home_team": "LSU",
-        "kalshi_title": "Southeastern Louisiana at LSU Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19SELALSU",
-        "expiration_time": "2025-12-20T04:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Belmont",
-        "home_team": "UC Irvine",
-        "kalshi_title": "Belmont at UC Irvine Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19BELUCI",
-        "expiration_time": "2025-12-20T05:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "e6b72da5815e3fa0d99565a802329b6a",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T02:00:00Z",
-        "home_team": "UC Irvine Anteaters",
-        "away_team": "Belmont Bruins",
-        "bookmakers": [
-          {
-            "key": "draftkings",
-            "title": "DraftKings",
-            "last_update": "2025-12-18T21:50:13Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:12Z",
-                "outcomes": [
-                  {
-                    "name": "Belmont Bruins",
-                    "price": -120
-                  },
-                  {
-                    "name": "UC Irvine Anteaters",
-                    "price": 100
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Abilene Christian",
-        "home_team": "BYU",
-        "kalshi_title": "Abilene Christian at BYU Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19ACBYU",
-        "expiration_time": "2025-12-20T05:30:00+00:00"
-      },
-      "odds_data": {
-        "id": "8bb0006149e0067dd3f4370987f25d3c",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T02:30:00Z",
-        "home_team": "BYU Cougars",
-        "away_team": "Abilene Christian Wildcats",
-        "bookmakers": []
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "North Alabama",
-        "home_team": "Loyola Marymount",
-        "kalshi_title": "North Alabama at Loyola Marymount Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19UNALMU",
-        "expiration_time": "2025-12-20T06:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "522f9ebe04d617b5d1c08106b89d2e06",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T03:00:00Z",
-        "home_team": "Loyola Marymount Lions",
-        "away_team": "North Alabama Lions",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Loyola Marymount Lions",
-                    "price": -465
-                  },
-                  {
-                    "name": "North Alabama Lions",
-                    "price": 350
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Florida Atlantic",
-        "home_team": "Saint Mary's",
-        "kalshi_title": "Florida Atlantic at Saint Mary's Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19FAUSMC",
-        "expiration_time": "2025-12-20T06:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "be27b8f3cb17e3ae5ba268a0a79e50c3",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T03:00:00Z",
-        "home_team": "Saint Mary's Gaels",
-        "away_team": "Florida Atlantic Owls",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Florida Atlantic Owls",
-                    "price": 860
-                  },
-                  {
-                    "name": "Saint Mary's Gaels",
-                    "price": -1600
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Morgan St.",
-        "home_team": "California",
-        "kalshi_title": "Morgan St. at California Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19MORGCAL",
-        "expiration_time": "2025-12-20T06:00:00+00:00"
-      },
-      "odds_data": null,
-      "matched": false
-    },
-    {
-      "kalshi_data": {
-        "away_team": "San Diego",
-        "home_team": "UC San Diego",
-        "kalshi_title": "San Diego at UC San Diego Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19USDUCSD",
-        "expiration_time": "2025-12-20T06:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "4cc32441480af4f480a9d8d08f95ec8e",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T03:00:00Z",
-        "home_team": "UC San Diego Tritons",
-        "away_team": "San Diego Toreros",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "San Diego Toreros",
-                    "price": 810
-                  },
-                  {
-                    "name": "UC San Diego Tritons",
-                    "price": -1450
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
-    {
-      "kalshi_data": {
-        "away_team": "Cal Poly",
-        "home_team": "UCLA",
-        "kalshi_title": "Cal Poly at UCLA Winner?",
-        "event_ticker": "KXNCAAMBGAME-25DEC19CPUCLA",
-        "expiration_time": "2025-12-20T06:00:00+00:00"
-      },
-      "odds_data": {
-        "id": "e115596e11cc8048edb35a41f4d1e5bd",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T03:00:00Z",
-        "home_team": "UCLA Bruins",
-        "away_team": "Cal Poly Mustangs",
-        "bookmakers": [
-          {
-            "key": "fanduel",
-            "title": "FanDuel",
-            "last_update": "2025-12-18T21:50:40Z",
-            "markets": [
-              {
-                "key": "h2h",
-                "last_update": "2025-12-18T21:50:40Z",
-                "outcomes": [
-                  {
-                    "name": "Cal Poly Mustangs",
-                    "price": 3500
-                  },
-                  {
-                    "name": "UCLA Bruins",
-                    "price": -20000
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "matched": true
-    },
     {
       "kalshi_data": {
         "away_team": "Washington",
@@ -2526,16 +15,8 @@
         "event_ticker": "KXNCAAMBGAME-25DEC19WASHSEA",
         "expiration_time": "2025-12-20T07:30:00+00:00"
       },
-      "odds_data": {
-        "id": "e6ca367564dcc26341704f231ff5046d",
-        "sport_key": "basketball_ncaab",
-        "sport_title": "NCAAB",
-        "commence_time": "2025-12-20T04:30:00Z",
-        "home_team": "Washington Huskies",
-        "away_team": "Seattle Redhawks",
-        "bookmakers": []
-      },
-      "matched": true
+      "odds_data": null,
+      "matched": false
     },
     {
       "kalshi_data": {
@@ -2578,8 +59,16 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20MONTLOU",
         "expiration_time": "2025-12-20T20:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "52853c804a42577dd7984e70e0931caf",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T17:00:00Z",
+        "home_team": "Louisville Cardinals",
+        "away_team": "Montana Grizzlies",
+        "bookmakers": []
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2589,8 +78,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20SJUUK",
         "expiration_time": "2025-12-20T20:30:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "9b42f54285bbe4c22d0ae9f2fcd90219",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T17:30:26Z",
+        "home_team": "Kentucky Wildcats",
+        "away_team": "St. John's Red Storm",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kentucky Wildcats",
+                    "price": 134
+                  },
+                  {
+                    "name": "St. John's Red Storm",
+                    "price": -162
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Kentucky Wildcats",
+                    "price": 142
+                  },
+                  {
+                    "name": "St. John's Red Storm",
+                    "price": -170
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Kentucky Wildcats",
+                    "price": 114
+                  },
+                  {
+                    "name": "St. John's Red Storm",
+                    "price": -143
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Kentucky Wildcats",
+                    "price": 125
+                  },
+                  {
+                    "name": "St. John's Red Storm",
+                    "price": -155
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2600,8 +182,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20LIBDAY",
         "expiration_time": "2025-12-20T20:30:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "be6b08eb53c32ee12ba49033ce8c1a24",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T17:30:00Z",
+        "home_team": "Dayton Flyers",
+        "away_team": "Liberty Flames",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Dayton Flyers",
+                    "price": -530
+                  },
+                  {
+                    "name": "Liberty Flames",
+                    "price": 390
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Dayton Flyers",
+                    "price": -535
+                  },
+                  {
+                    "name": "Liberty Flames",
+                    "price": 400
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Dayton Flyers",
+                    "price": -550
+                  },
+                  {
+                    "name": "Liberty Flames",
+                    "price": 400
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2611,8 +265,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20BUFFWMU",
         "expiration_time": "2025-12-20T21:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "d3171dc82bc607d21faa2a02b4715f11",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T18:00:00Z",
+        "home_team": "Western Michigan Broncos",
+        "away_team": "Buffalo Bulls",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Buffalo Bulls",
+                    "price": -118
+                  },
+                  {
+                    "name": "Western Michigan Broncos",
+                    "price": -102
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Buffalo Bulls",
+                    "price": -112
+                  },
+                  {
+                    "name": "Western Michigan Broncos",
+                    "price": -108
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Buffalo Bulls",
+                    "price": -110
+                  },
+                  {
+                    "name": "Western Michigan Broncos",
+                    "price": -110
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2644,8 +370,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20RMUSFPA",
         "expiration_time": "2025-12-20T21:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "f75482e8c2bbaf159c9d22173c113c48",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T18:00:00Z",
+        "home_team": "St. Francis (PA) Red Flash",
+        "away_team": "Robert Morris Colonials",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Robert Morris Colonials",
+                    "price": -1200
+                  },
+                  {
+                    "name": "St. Francis (PA) Red Flash",
+                    "price": 750
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Robert Morris Colonials",
+                    "price": -1200
+                  },
+                  {
+                    "name": "St. Francis (PA) Red Flash",
+                    "price": 725
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2655,8 +432,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20LMCSBON",
         "expiration_time": "2025-12-20T21:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "d7202e9e3f1e8af5d51fb1e5dce6972e",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T18:00:00Z",
+        "home_team": "St. Bonaventure Bonnies",
+        "away_team": "Le Moyne Dolphins",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Le Moyne Dolphins",
+                    "price": 1100
+                  },
+                  {
+                    "name": "St. Bonaventure Bonnies",
+                    "price": -2100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Le Moyne Dolphins",
+                    "price": 1000
+                  },
+                  {
+                    "name": "St. Bonaventure Bonnies",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2699,8 +527,38 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20HOWUNCW",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "8acef7a2d2eae60351b67d2f1ffedb58",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "UNC Wilmington Seahawks",
+        "away_team": "Howard Bison",
+        "bookmakers": [
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Howard Bison",
+                    "price": 775
+                  },
+                  {
+                    "name": "UNC Wilmington Seahawks",
+                    "price": -1400
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2710,8 +568,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20LAFGT",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "799e8aa063945f37977ce14e6cd84cef",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Georgia Tech Yellow Jackets",
+        "away_team": "Lafayette Leopards",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Georgia Tech Yellow Jackets",
+                    "price": -2000
+                  },
+                  {
+                    "name": "Lafayette Leopards",
+                    "price": 980
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Georgia Tech Yellow Jackets",
+                    "price": -2100
+                  },
+                  {
+                    "name": "Lafayette Leopards",
+                    "price": 1100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Georgia Tech Yellow Jackets",
+                    "price": -2000
+                  },
+                  {
+                    "name": "Lafayette Leopards",
+                    "price": 950
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2732,8 +662,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20BINGMHU",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "8eec569dd84b7bcbee37bed5cee674c8",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Mercyhurst Lakers",
+        "away_team": "Binghamton Bearcats",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Binghamton Bearcats",
+                    "price": 320
+                  },
+                  {
+                    "name": "Mercyhurst Lakers",
+                    "price": -410
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Binghamton Bearcats",
+                    "price": 320
+                  },
+                  {
+                    "name": "Mercyhurst Lakers",
+                    "price": -425
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2743,8 +724,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20ELONVT",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "1af847e8da115ae4fd138e1caeee1508",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Virginia Tech Hokies",
+        "away_team": "Elon Phoenix",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Elon Phoenix",
+                    "price": 810
+                  },
+                  {
+                    "name": "Virginia Tech Hokies",
+                    "price": -1450
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Elon Phoenix",
+                    "price": 800
+                  },
+                  {
+                    "name": "Virginia Tech Hokies",
+                    "price": -1350
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Elon Phoenix",
+                    "price": 750
+                  },
+                  {
+                    "name": "Virginia Tech Hokies",
+                    "price": -1200
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2754,8 +807,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20IONAUVM",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "a5df87ef0092a9a0037d4f7c4858ce11",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Vermont Catamounts",
+        "away_team": "Iona Gaels",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Iona Gaels",
+                    "price": 164
+                  },
+                  {
+                    "name": "Vermont Catamounts",
+                    "price": -198
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Iona Gaels",
+                    "price": 155
+                  },
+                  {
+                    "name": "Vermont Catamounts",
+                    "price": -190
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2776,8 +880,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20CCARODU",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "8c09bc16d39e3981da6f24c16a51c6f7",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Old Dominion Monarchs",
+        "away_team": "Coastal Carolina Chanticleers",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Coastal Carolina Chanticleers",
+                    "price": 170
+                  },
+                  {
+                    "name": "Old Dominion Monarchs",
+                    "price": -205
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Coastal Carolina Chanticleers",
+                    "price": 170
+                  },
+                  {
+                    "name": "Old Dominion Monarchs",
+                    "price": -210
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2831,8 +986,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20HCHARV",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "1c8b120b778778bec8d309a516873f6b",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Harvard Crimson",
+        "away_team": "Holy Cross Crusaders",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Harvard Crimson",
+                    "price": -485
+                  },
+                  {
+                    "name": "Holy Cross Crusaders",
+                    "price": 370
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Harvard Crimson",
+                    "price": -500
+                  },
+                  {
+                    "name": "Holy Cross Crusaders",
+                    "price": 375
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2842,8 +1048,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20MRSHTROY",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "2b29abcc7be53e3dc0191d97c1b8d9b9",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "Troy Trojans",
+        "away_team": "Marshall Thundering Herd",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Marshall Thundering Herd",
+                    "price": 170
+                  },
+                  {
+                    "name": "Troy Trojans",
+                    "price": -205
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Marshall Thundering Herd",
+                    "price": 170
+                  },
+                  {
+                    "name": "Troy Trojans",
+                    "price": -210
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2853,8 +1110,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20LONGNCCU",
         "expiration_time": "2025-12-20T22:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "cf922e9b07409ffd2cdecfa0251ebb59",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T19:00:00Z",
+        "home_team": "North Carolina Central Eagles",
+        "away_team": "Longwood Lancers",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Longwood Lancers",
+                    "price": -218
+                  },
+                  {
+                    "name": "North Carolina Central Eagles",
+                    "price": 180
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Longwood Lancers",
+                    "price": -200
+                  },
+                  {
+                    "name": "North Carolina Central Eagles",
+                    "price": 165
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2875,8 +1183,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20CMUNIU",
         "expiration_time": "2025-12-20T23:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "1ede5f6ee8fa4385b2b2c733535df274",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T20:00:00Z",
+        "home_team": "Northern Illinois Huskies",
+        "away_team": "Central Michigan Chippewas",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Central Michigan Chippewas",
+                    "price": 124
+                  },
+                  {
+                    "name": "Northern Illinois Huskies",
+                    "price": -148
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Central Michigan Chippewas",
+                    "price": 125
+                  },
+                  {
+                    "name": "Northern Illinois Huskies",
+                    "price": -150
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Central Michigan Chippewas",
+                    "price": 126
+                  },
+                  {
+                    "name": "Northern Illinois Huskies",
+                    "price": -152
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2941,8 +1321,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20NESYR",
         "expiration_time": "2025-12-21T00:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "ca6d113522ad360af79c84a8958b967d",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T21:00:00Z",
+        "home_team": "Syracuse Orange",
+        "away_team": "Northeastern Huskies",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Northeastern Huskies",
+                    "price": 980
+                  },
+                  {
+                    "name": "Syracuse Orange",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Northeastern Huskies",
+                    "price": 950
+                  },
+                  {
+                    "name": "Syracuse Orange",
+                    "price": -1650
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Northeastern Huskies",
+                    "price": 850
+                  },
+                  {
+                    "name": "Syracuse Orange",
+                    "price": -1600
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2952,8 +1404,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20GCWYO",
         "expiration_time": "2025-12-21T00:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "36d92c8f7902db06b6d278ad1b3cd21f",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T21:00:00Z",
+        "home_team": "Wyoming Cowboys",
+        "away_team": "Grand Canyon Antelopes",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Grand Canyon Antelopes",
+                    "price": 138
+                  },
+                  {
+                    "name": "Wyoming Cowboys",
+                    "price": -166
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Grand Canyon Antelopes",
+                    "price": 133
+                  },
+                  {
+                    "name": "Wyoming Cowboys",
+                    "price": -167
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Grand Canyon Antelopes",
+                    "price": 136
+                  },
+                  {
+                    "name": "Wyoming Cowboys",
+                    "price": -162
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Grand Canyon Antelopes",
+                    "price": 135
+                  },
+                  {
+                    "name": "Wyoming Cowboys",
+                    "price": -160
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2963,8 +1508,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20NWBUT",
         "expiration_time": "2025-12-21T00:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "21c8385363bb3957d76ed0117c8b5a8c",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T21:00:57Z",
+        "home_team": "Butler Bulldogs",
+        "away_team": "Northwestern Wildcats",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Butler Bulldogs",
+                    "price": -122
+                  },
+                  {
+                    "name": "Northwestern Wildcats",
+                    "price": 102
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Butler Bulldogs",
+                    "price": -122
+                  },
+                  {
+                    "name": "Northwestern Wildcats",
+                    "price": 102
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Butler Bulldogs",
+                    "price": -120
+                  },
+                  {
+                    "name": "Northwestern Wildcats",
+                    "price": 100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Butler Bulldogs",
+                    "price": -125
+                  },
+                  {
+                    "name": "Northwestern Wildcats",
+                    "price": -103
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -2974,8 +1612,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20BGSUOHIO",
         "expiration_time": "2025-12-21T00:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "359dee40f55b02b8e6b3543fea7df5f8",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T21:00:00Z",
+        "home_team": "Ohio Bobcats",
+        "away_team": "Bowling Green Falcons",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Bowling Green Falcons",
+                    "price": -105
+                  },
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": -115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Bowling Green Falcons",
+                    "price": -105
+                  },
+                  {
+                    "name": "Ohio Bobcats",
+                    "price": -115
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3062,8 +1751,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20JMUGASO",
         "expiration_time": "2025-12-21T01:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "a9d057b9a390addb8a607018b7dd822f",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T22:00:00Z",
+        "home_team": "Georgia Southern Eagles",
+        "away_team": "James Madison Dukes",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Georgia Southern Eagles",
+                    "price": -152
+                  },
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 126
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Georgia Southern Eagles",
+                    "price": -148
+                  },
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 124
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Georgia Southern Eagles",
+                    "price": -150
+                  },
+                  {
+                    "name": "James Madison Dukes",
+                    "price": 125
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3106,8 +1867,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20FGCUUCF",
         "expiration_time": "2025-12-21T01:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "91aa10bcc973fc489d1cf6e06640fa4e",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T22:00:00Z",
+        "home_team": "UCF Knights",
+        "away_team": "Florida Gulf Coast Eagles",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Florida Gulf Coast Eagles",
+                    "price": 1060
+                  },
+                  {
+                    "name": "UCF Knights",
+                    "price": -2300
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Florida Gulf Coast Eagles",
+                    "price": 1100
+                  },
+                  {
+                    "name": "UCF Knights",
+                    "price": -2100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Florida Gulf Coast Eagles",
+                    "price": 1000
+                  },
+                  {
+                    "name": "UCF Knights",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3128,8 +1961,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20HOUARK",
         "expiration_time": "2025-12-21T01:30:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "ba494ddf7309373f03077b5f6f6174ab",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T22:30:09Z",
+        "home_team": "Arkansas Razorbacks",
+        "away_team": "Houston Cougars",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Arkansas Razorbacks",
+                    "price": 164
+                  },
+                  {
+                    "name": "Houston Cougars",
+                    "price": -200
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Arkansas Razorbacks",
+                    "price": 164
+                  },
+                  {
+                    "name": "Houston Cougars",
+                    "price": -198
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Arkansas Razorbacks",
+                    "price": 155
+                  },
+                  {
+                    "name": "Houston Cougars",
+                    "price": -190
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3139,8 +2044,38 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20CITRICH",
         "expiration_time": "2025-12-21T02:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "874b7e6a9ac9e4a287d6156db1b4cdc6",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T23:00:00Z",
+        "home_team": "Richmond Spiders",
+        "away_team": "The Citadel Bulldogs",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Richmond Spiders",
+                    "price": -7000
+                  },
+                  {
+                    "name": "The Citadel Bulldogs",
+                    "price": 2000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3150,8 +2085,38 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20BUCKIOWA",
         "expiration_time": "2025-12-21T02:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "c05925c09de7f218205aec532212e693",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T23:00:53Z",
+        "home_team": "Iowa Hawkeyes",
+        "away_team": "Bucknell Bison",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Bucknell Bison",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Iowa Hawkeyes",
+                    "price": -20000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3161,8 +2126,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20MDUVA",
         "expiration_time": "2025-12-21T02:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "9cdf4cd54f126cb2673fd765433b972f",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T23:00:16Z",
+        "home_team": "Virginia Cavaliers",
+        "away_team": "Maryland Terrapins",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Maryland Terrapins",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Virginia Cavaliers",
+                    "price": -2100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Maryland Terrapins",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Virginia Cavaliers",
+                    "price": -2100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Maryland Terrapins",
+                    "price": 950
+                  },
+                  {
+                    "name": "Virginia Cavaliers",
+                    "price": -2000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Maryland Terrapins",
+                    "price": 900
+                  },
+                  {
+                    "name": "Virginia Cavaliers",
+                    "price": -2500
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3172,8 +2230,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20AUBPUR",
         "expiration_time": "2025-12-21T02:30:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "08d75f0dbf1fd40a6e91f064d534a0c2",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-20T23:30:15Z",
+        "home_team": "Purdue Boilermakers",
+        "away_team": "Auburn Tigers",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Auburn Tigers",
+                    "price": 330
+                  },
+                  {
+                    "name": "Purdue Boilermakers",
+                    "price": -430
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Auburn Tigers",
+                    "price": 360
+                  },
+                  {
+                    "name": "Purdue Boilermakers",
+                    "price": -470
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Auburn Tigers",
+                    "price": 320
+                  },
+                  {
+                    "name": "Purdue Boilermakers",
+                    "price": -455
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Auburn Tigers",
+                    "price": 310
+                  },
+                  {
+                    "name": "Purdue Boilermakers",
+                    "price": -400
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3183,8 +2334,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20NEOMLAM",
         "expiration_time": "2025-12-21T03:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "532221e6e9217dfeeac6c2dbf4a55038",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T00:00:00Z",
+        "home_team": "Lamar Cardinals",
+        "away_team": "Omaha Mavericks",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Lamar Cardinals",
+                    "price": -245
+                  },
+                  {
+                    "name": "Omaha Mavericks",
+                    "price": 198
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Lamar Cardinals",
+                    "price": -218
+                  },
+                  {
+                    "name": "Omaha Mavericks",
+                    "price": 180
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Lamar Cardinals",
+                    "price": -210
+                  },
+                  {
+                    "name": "Omaha Mavericks",
+                    "price": 170
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Lamar Cardinals",
+                    "price": -225
+                  },
+                  {
+                    "name": "Omaha Mavericks",
+                    "price": 170
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3205,8 +2449,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20EWUUTAH",
         "expiration_time": "2025-12-21T03:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "9e1a9a599d462516a4d2841f6201c4ae",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T00:00:00Z",
+        "home_team": "Utah Utes",
+        "away_team": "Eastern Washington Eagles",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Eastern Washington Eagles",
+                    "price": 640
+                  },
+                  {
+                    "name": "Utah Utes",
+                    "price": -1000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Eastern Washington Eagles",
+                    "price": 550
+                  },
+                  {
+                    "name": "Utah Utes",
+                    "price": -800
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Eastern Washington Eagles",
+                    "price": 450
+                  },
+                  {
+                    "name": "Utah Utes",
+                    "price": -715
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3227,8 +2543,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20TTUDUKE",
         "expiration_time": "2025-12-21T04:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "23ace90a587b25f07c9a8524d68e2ae5",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T01:00:00Z",
+        "home_team": "Duke Blue Devils",
+        "away_team": "Texas Tech Red Raiders",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Duke Blue Devils",
+                    "price": -480
+                  },
+                  {
+                    "name": "Texas Tech Red Raiders",
+                    "price": 360
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Duke Blue Devils",
+                    "price": -455
+                  },
+                  {
+                    "name": "Texas Tech Red Raiders",
+                    "price": 350
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Duke Blue Devils",
+                    "price": -435
+                  },
+                  {
+                    "name": "Texas Tech Red Raiders",
+                    "price": 310
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Duke Blue Devils",
+                    "price": -450
+                  },
+                  {
+                    "name": "Texas Tech Red Raiders",
+                    "price": 350
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3238,8 +2647,80 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20PENNRUTG",
         "expiration_time": "2025-12-21T04:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "6874f4b4a1a9243344010e4e65f3741f",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T01:00:00Z",
+        "home_team": "Rutgers Scarlet Knights",
+        "away_team": "Pennsylvania Quakers",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Pennsylvania Quakers",
+                    "price": 660
+                  },
+                  {
+                    "name": "Rutgers Scarlet Knights",
+                    "price": -1050
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Pennsylvania Quakers",
+                    "price": 475
+                  },
+                  {
+                    "name": "Rutgers Scarlet Knights",
+                    "price": -650
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Pennsylvania Quakers",
+                    "price": 440
+                  },
+                  {
+                    "name": "Rutgers Scarlet Knights",
+                    "price": -670
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3249,8 +2730,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20STANCOLO",
         "expiration_time": "2025-12-21T04:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "d87d380d79966e01509d3f58a645e445",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T01:00:51Z",
+        "home_team": "Colorado Buffaloes",
+        "away_team": "Stanford Cardinal",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Colorado Buffaloes",
+                    "price": -220
+                  },
+                  {
+                    "name": "Stanford Cardinal",
+                    "price": 176
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Colorado Buffaloes",
+                    "price": -218
+                  },
+                  {
+                    "name": "Stanford Cardinal",
+                    "price": 180
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Colorado Buffaloes",
+                    "price": -220
+                  },
+                  {
+                    "name": "Stanford Cardinal",
+                    "price": 180
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Colorado Buffaloes",
+                    "price": -245
+                  },
+                  {
+                    "name": "Stanford Cardinal",
+                    "price": 185
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3260,8 +2834,59 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20UCRVUST",
         "expiration_time": "2025-12-21T04:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "273e44d334e5197f5727139b5e9c167a",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T01:00:00Z",
+        "home_team": "St. Thomas (MN) Tommies",
+        "away_team": "UC Riverside Highlanders",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "St. Thomas (MN) Tommies",
+                    "price": -650
+                  },
+                  {
+                    "name": "UC Riverside Highlanders",
+                    "price": 470
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "St. Thomas (MN) Tommies",
+                    "price": -900
+                  },
+                  {
+                    "name": "UC Riverside Highlanders",
+                    "price": 575
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3293,8 +2918,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20XAVGTWN",
         "expiration_time": "2025-12-21T04:30:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "8e51542faf0f7fb8372f4117fd6c6eb2",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T01:30:00Z",
+        "home_team": "Georgetown Hoyas",
+        "away_team": "Xavier Musketeers",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Georgetown Hoyas",
+                    "price": -220
+                  },
+                  {
+                    "name": "Xavier Musketeers",
+                    "price": 188
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Georgetown Hoyas",
+                    "price": -205
+                  },
+                  {
+                    "name": "Xavier Musketeers",
+                    "price": 170
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Georgetown Hoyas",
+                    "price": -210
+                  },
+                  {
+                    "name": "Xavier Musketeers",
+                    "price": 170
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Georgetown Hoyas",
+                    "price": -210
+                  },
+                  {
+                    "name": "Xavier Musketeers",
+                    "price": 163
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3304,8 +3022,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20MARQCREI",
         "expiration_time": "2025-12-21T04:30:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "d55ed1f74cc980f2649872faff444faf",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T01:30:45Z",
+        "home_team": "Creighton Bluejays",
+        "away_team": "Marquette Golden Eagles",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Creighton Bluejays",
+                    "price": -360
+                  },
+                  {
+                    "name": "Marquette Golden Eagles",
+                    "price": 280
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Creighton Bluejays",
+                    "price": -360
+                  },
+                  {
+                    "name": "Marquette Golden Eagles",
+                    "price": 285
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Creighton Bluejays",
+                    "price": -325
+                  },
+                  {
+                    "name": "Marquette Golden Eagles",
+                    "price": 260
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Creighton Bluejays",
+                    "price": -375
+                  },
+                  {
+                    "name": "Marquette Golden Eagles",
+                    "price": 275
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3337,8 +3148,101 @@
         "event_ticker": "KXNCAAMBGAME-25DEC20RICEPEPP",
         "expiration_time": "2025-12-21T05:00:00+00:00"
       },
-      "odds_data": null,
-      "matched": false
+      "odds_data": {
+        "id": "08e6ffa306de6204ce8c53f3eca6d1cf",
+        "sport_key": "basketball_ncaab",
+        "sport_title": "NCAAB",
+        "commence_time": "2025-12-21T02:00:00Z",
+        "home_team": "Pepperdine Waves",
+        "away_team": "Rice Owls",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "last_update": "2025-12-20T06:55:36Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:36Z",
+                "outcomes": [
+                  {
+                    "name": "Pepperdine Waves",
+                    "price": 102
+                  },
+                  {
+                    "name": "Rice Owls",
+                    "price": -122
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betmgm",
+            "title": "BetMGM",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Pepperdine Waves",
+                    "price": 100
+                  },
+                  {
+                    "name": "Rice Owls",
+                    "price": -120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "last_update": "2025-12-20T06:55:37Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:55:37Z",
+                "outcomes": [
+                  {
+                    "name": "Pepperdine Waves",
+                    "price": 106
+                  },
+                  {
+                    "name": "Rice Owls",
+                    "price": -128
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "betrivers",
+            "title": "BetRivers",
+            "last_update": "2025-12-20T06:56:02Z",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2025-12-20T06:56:02Z",
+                "outcomes": [
+                  {
+                    "name": "Pepperdine Waves",
+                    "price": -103
+                  },
+                  {
+                    "name": "Rice Owls",
+                    "price": -124
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "matched": true
     },
     {
       "kalshi_data": {
@@ -3358,6 +3262,732 @@
         "kalshi_title": "San Diego St. at Arizona Winner?",
         "event_ticker": "KXNCAAMBGAME-25DEC20SDSUARIZ",
         "expiration_time": "2025-12-21T06:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Rosemont",
+        "home_team": "Navy",
+        "kalshi_title": "Rosemont at Navy Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21ROSENAVY",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Penn St.",
+        "home_team": "Pittsburgh",
+        "kalshi_title": "Penn St. at Pittsburgh Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21PSUPITT",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UMass Lowell",
+        "home_team": "Boston University",
+        "kalshi_title": "UMass Lowell at Boston University Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21MASSLBU",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Penn State-Brandywine",
+        "home_team": "Mount St. Mary's",
+        "kalshi_title": "Penn State-Brandywine at Mount St. Mary's Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21PSBWMSM",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Colgate",
+        "home_team": "Florida",
+        "kalshi_title": "Colgate at Florida Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21COLGFLA",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Clinton College",
+        "home_team": "Winthrop",
+        "kalshi_title": "Clinton College at Winthrop Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CLINWIN",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Charleston",
+        "home_team": "Northern Kentucky",
+        "kalshi_title": "Charleston at Northern Kentucky Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21COFCNKU",
+        "expiration_time": "2025-12-21T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Stony Brook",
+        "home_team": "Marist",
+        "kalshi_title": "Stony Brook at Marist Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21STONMRST",
+        "expiration_time": "2025-12-21T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Lehigh",
+        "home_team": "Monmouth",
+        "kalshi_title": "Lehigh at Monmouth Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21LEHMONM",
+        "expiration_time": "2025-12-21T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Quinnipiac",
+        "home_team": "Hofstra",
+        "kalshi_title": "Quinnipiac at Hofstra Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21QUINHOF",
+        "expiration_time": "2025-12-21T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Southern University",
+        "home_team": "Baylor",
+        "kalshi_title": "Southern University at Baylor Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21SOUBAY",
+        "expiration_time": "2025-12-21T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Ole Miss",
+        "home_team": "North Carolina St.",
+        "kalshi_title": "Ole Miss at North Carolina St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21MISSNCST",
+        "expiration_time": "2025-12-21T21:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Presbyterian",
+        "home_team": "Manhattan",
+        "kalshi_title": "Presbyterian at Manhattan Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21PREMAN",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Loyola Maryland",
+        "home_team": "George Mason",
+        "kalshi_title": "Loyola Maryland at George Mason Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21LMDGMU",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Kennesaw St.",
+        "home_team": "Alabama",
+        "kalshi_title": "Kennesaw St. at Alabama Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21KENNALA",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Maine",
+        "home_team": "Drexel",
+        "kalshi_title": "Maine at Drexel Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21MEDREX",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Purdue Fort Wayne",
+        "home_team": "Notre Dame",
+        "kalshi_title": "Purdue Fort Wayne at Notre Dame Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21PFWND",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Cal State Fullerton",
+        "home_team": "Oklahoma St.",
+        "kalshi_title": "Cal State Fullerton at Oklahoma St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CSFOKST",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Dallas",
+        "home_team": "Stephen F. Austin",
+        "kalshi_title": "Dallas at Stephen F. Austin Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UDALSFA",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Southern Illinois",
+        "home_team": "Bradley",
+        "kalshi_title": "Southern Illinois at Bradley Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21SIUBRAD",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Charleston Southern",
+        "home_team": "Furman",
+        "kalshi_title": "Charleston Southern at Furman Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CHSOFUR",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UIC",
+        "home_team": "Charlotte",
+        "kalshi_title": "UIC at Charlotte Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UICCHAR",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Holy Family University",
+        "home_team": "Delaware St.",
+        "kalshi_title": "Holy Family University at Delaware St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21HFUDSU",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Central Arkansas",
+        "home_team": "SMU",
+        "kalshi_title": "Central Arkansas at SMU Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CARKSMU",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Murray St.",
+        "home_team": "Valparaiso",
+        "kalshi_title": "Murray St. at Valparaiso Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21MURRVALP",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Virginia-Lynchburg",
+        "home_team": "UNC Greensboro",
+        "kalshi_title": "Virginia-Lynchburg at UNC Greensboro Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21VULUNCG",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Cumberland",
+        "home_team": "Middle Tennessee",
+        "kalshi_title": "Cumberland at Middle Tennessee Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CUMBMTU",
+        "expiration_time": "2025-12-21T22:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "VMI",
+        "home_team": "Radford",
+        "kalshi_title": "VMI at Radford Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21VMIRAD",
+        "expiration_time": "2025-12-21T22:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "New Hampshire",
+        "home_team": "Saint Louis",
+        "kalshi_title": "New Hampshire at Saint Louis Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UNHSLU",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Cornell",
+        "home_team": "University at Albany",
+        "kalshi_title": "Cornell at University at Albany Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CORALBY",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UMBC",
+        "home_team": "South Florida",
+        "kalshi_title": "UMBC at South Florida Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UMBCUSF",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Chattanooga",
+        "home_team": "Alabama A&M",
+        "kalshi_title": "Chattanooga at Alabama A&M Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CHATAAMU",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UNC Asheville",
+        "home_team": "UAB",
+        "kalshi_title": "UNC Asheville at UAB Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UNCAUAB",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Northern Arizona",
+        "home_team": "Incarnate Word",
+        "kalshi_title": "Northern Arizona at Incarnate Word Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21NAUIW",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Gardner-Webb",
+        "home_team": "Tennessee",
+        "kalshi_title": "Gardner-Webb at Tennessee Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21WEBBTENN",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Oregon St.",
+        "home_team": "Arizona St.",
+        "kalshi_title": "Oregon St. at Arizona St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21ORSTASU",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Cincinnati",
+        "home_team": "Clemson",
+        "kalshi_title": "Cincinnati at Clemson Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CINCLEM",
+        "expiration_time": "2025-12-21T23:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "North Florida",
+        "home_team": "Miami (FL)",
+        "kalshi_title": "North Florida at Miami (FL) Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UNFMIA",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Drake",
+        "home_team": "Evansville",
+        "kalshi_title": "Drake at Evansville Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21DRKEEVAN",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "La Salle",
+        "home_team": "Michigan",
+        "kalshi_title": "La Salle at Michigan Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21LASMICH",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UC Santa Cruz",
+        "home_team": "USC",
+        "kalshi_title": "UC Santa Cruz at USC Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UCSCUSC",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "East Texas A&M",
+        "home_team": "Texas A&M",
+        "kalshi_title": "East Texas A&M at Texas A&M Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21ETAMTXAM",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Sam Houston",
+        "home_team": "New Mexico St.",
+        "kalshi_title": "Sam Houston at New Mexico St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21SHSUNMSU",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Florida A&M",
+        "home_team": "TCU",
+        "kalshi_title": "Florida A&M at TCU Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21FAMUTCU",
+        "expiration_time": "2025-12-22T00:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UConn",
+        "home_team": "DePaul",
+        "kalshi_title": "UConn at DePaul Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CONNDEP",
+        "expiration_time": "2025-12-22T00:30:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Milwaukee",
+        "home_team": "Cleveland St.",
+        "kalshi_title": "Milwaukee at Cleveland St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21MILWCLEV",
+        "expiration_time": "2025-12-22T01:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Eastern Kentucky",
+        "home_team": "Wichita St.",
+        "kalshi_title": "Eastern Kentucky at Wichita St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21EKYWICH",
+        "expiration_time": "2025-12-22T01:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Indiana St.",
+        "home_team": "Illinois St.",
+        "kalshi_title": "Indiana St. at Illinois St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21INSTILST",
+        "expiration_time": "2025-12-22T01:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Columbia",
+        "home_team": "California",
+        "kalshi_title": "Columbia at California Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CLMBCAL",
+        "expiration_time": "2025-12-22T01:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Long Beach St.",
+        "home_team": "Iowa St.",
+        "kalshi_title": "Long Beach St. at Iowa St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21LBSUISU",
+        "expiration_time": "2025-12-22T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Austin Peay",
+        "home_team": "Kansas City",
+        "kalshi_title": "Austin Peay at Kansas City Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21PEAYUMKC",
+        "expiration_time": "2025-12-22T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Morgan St.",
+        "home_team": "San Francisco",
+        "kalshi_title": "Morgan St. at San Francisco Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21MORGSF",
+        "expiration_time": "2025-12-22T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UC Davis",
+        "home_team": "Idaho St.",
+        "kalshi_title": "UC Davis at Idaho St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UCDIDST",
+        "expiration_time": "2025-12-22T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Campbell",
+        "home_team": "Minnesota",
+        "kalshi_title": "Campbell at Minnesota Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21CAMPMINN",
+        "expiration_time": "2025-12-22T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Gonzaga",
+        "home_team": "Oregon",
+        "kalshi_title": "Gonzaga at Oregon Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21GONZORE",
+        "expiration_time": "2025-12-22T02:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Idaho",
+        "home_team": "Cal Poly",
+        "kalshi_title": "Idaho at Cal Poly Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21IDHOCP",
+        "expiration_time": "2025-12-22T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Nicholls St.",
+        "home_team": "Pacific",
+        "kalshi_title": "Nicholls St. at Pacific Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21NICHPAC",
+        "expiration_time": "2025-12-22T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UC Irvine",
+        "home_team": "North Dakota St.",
+        "kalshi_title": "UC Irvine at North Dakota St. Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UCINDSU",
+        "expiration_time": "2025-12-22T03:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "North Dakota",
+        "home_team": "Nebraska",
+        "kalshi_title": "North Dakota at Nebraska Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21UNDNEB",
+        "expiration_time": "2025-12-22T04:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Norfolk St.",
+        "home_team": "UTEP",
+        "kalshi_title": "Norfolk St. at UTEP Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC21NORFUTEP",
+        "expiration_time": "2025-12-22T05:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "New Haven",
+        "home_team": "Fordham",
+        "kalshi_title": "New Haven at Fordham Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC22NHCFOR",
+        "expiration_time": "2025-12-22T19:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Miami-Hamilton",
+        "home_team": "Ohio",
+        "kalshi_title": "Miami-Hamilton at Ohio Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC22MHAMOHIO",
+        "expiration_time": "2025-12-22T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Centenary (NJ)",
+        "home_team": "Saint Peter's",
+        "kalshi_title": "Centenary (NJ) at Saint Peter's Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC22CCNJSPC",
+        "expiration_time": "2025-12-22T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "UMass Boston",
+        "home_team": "UMass",
+        "kalshi_title": "UMass Boston at UMass Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC22MABOMASS",
+        "expiration_time": "2025-12-22T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Manor",
+        "home_team": "Wagner",
+        "kalshi_title": "Manor at Wagner Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC22MCBJWAG",
+        "expiration_time": "2025-12-22T20:00:00+00:00"
+      },
+      "odds_data": null,
+      "matched": false
+    },
+    {
+      "kalshi_data": {
+        "away_team": "Trinity (FL)",
+        "home_team": "Florida International",
+        "kalshi_title": "Trinity (FL) at Florida International Winner?",
+        "event_ticker": "KXNCAAMBGAME-25DEC22TRINFIU",
+        "expiration_time": "2025-12-22T20:00:00+00:00"
       },
       "odds_data": null,
       "matched": false

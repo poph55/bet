@@ -1,5 +1,7 @@
 import json
+import math
 import os
+import subprocess
 import sys
 from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
@@ -26,6 +28,7 @@ except ImportError:
 
 # Get the project root directory
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SCRIPTS_DIR = os.path.join(PROJECT_ROOT, "scripts")
 DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 
 # Sport configuration
@@ -321,6 +324,74 @@ def calculate_expected_value(
     
     return (prob_a * net_if_team_a_wins) + (prob_b * net_if_team_b_wins)
 
+def calculate_max_kalshi_price_for_ev(
+    bet_amount: float,
+    prob_bet_team_wins: float,
+    prob_opponent_wins: float,
+    min_ev: float = 3.0,
+    fee_percent: float = 1.0
+) -> Optional[int]:
+    """
+    Calculate the maximum Kalshi price (in cents) that would still yield EV >= min_ev.
+    
+    Args:
+        bet_amount: Amount bet in dollars
+        prob_bet_team_wins: Probability that the team we're betting on wins (0-100)
+        prob_opponent_wins: Probability that the opponent wins (0-100)
+        min_ev: Minimum expected value in dollars (default $3.00)
+        fee_percent: Kalshi's fee percentage on winning contracts (default 1.0%)
+    
+    Returns:
+        Maximum price in cents, or None if no price would yield EV >= min_ev
+    """
+    # Convert probabilities to decimals
+    prob_win = prob_bet_team_wins / 100.0
+    prob_lose = prob_opponent_wins / 100.0
+    
+    # Formula derived from EV calculation:
+    # EV = prob_win * ((bet_amount * 100 / price_cents) * payout_per_share - bet_amount) + prob_lose * (-bet_amount)
+    # Since prob_win + prob_lose = 1 (normalized probabilities sum to 100%):
+    # EV = prob_win * (bet_amount * 100 / price_cents) * payout_per_share - bet_amount
+    # Solving for price_cents where EV >= min_ev:
+    # price_cents <= (prob_win * bet_amount * 100 * payout_per_share) / (min_ev + bet_amount)
+    
+    payout_per_share = 1.0 * (1 - fee_percent / 100.0)
+    denominator = min_ev + bet_amount
+    
+    if denominator <= 0:
+        return None
+    
+    max_price_cents = (prob_win * bet_amount * 100 * payout_per_share) / denominator
+    
+    # Price must be between 1 and 100 cents
+    # Use floor to be conservative (round down to ensure we stay above threshold)
+    max_price_cents = max(1, min(100, math.floor(max_price_cents)))
+    
+    # Verify this price actually yields EV >= min_ev
+    test_payout = calculate_kalshi_payout(bet_amount, max_price_cents, fee_percent)
+    test_ev = calculate_expected_value(
+        prob_bet_team_wins,
+        prob_opponent_wins,
+        test_payout["profit_if_win"],
+        test_payout["loss_if_lose"]
+    )
+    
+    if test_ev < min_ev:
+        # Try one cent lower
+        if max_price_cents > 1:
+            max_price_cents -= 1
+            test_payout = calculate_kalshi_payout(bet_amount, max_price_cents, fee_percent)
+            test_ev = calculate_expected_value(
+                prob_bet_team_wins,
+                prob_opponent_wins,
+                test_payout["profit_if_win"],
+                test_payout["loss_if_lose"]
+            )
+            if test_ev < min_ev:
+                return None
+    
+    return max_price_cents
+
 def parse_kalshi_team_name(title: str) -> Tuple[Optional[str], Optional[str]]:
     """
     Parse Kalshi title format like "Los Angeles R at Seattle Winner?"
@@ -351,10 +422,48 @@ def parse_kalshi_team_name(title: str) -> Tuple[Optional[str], Optional[str]]:
     
     return away_team, home_team
 
-def load_and_match_games(sport: str) -> List[Dict]:
+def is_game_live(commence_time: Optional[str]) -> bool:
+    """
+    Check if a game is live (has started).
+    
+    Args:
+        commence_time: ISO format timestamp string (e.g., "2025-12-20T22:10:00Z")
+    
+    Returns:
+        True if game has started (commence_time is in the past), False otherwise
+    """
+    if not commence_time:
+        return False  # Can't determine, assume not live
+    
+    try:
+        # Parse the commence_time
+        if commence_time.endswith('Z'):
+            # UTC timezone
+            game_time = datetime.fromisoformat(commence_time.replace('Z', '+00:00'))
+        else:
+            # Try parsing as-is
+            game_time = datetime.fromisoformat(commence_time)
+        
+        # Ensure timezone-aware
+        if game_time.tzinfo is None:
+            # Assume UTC if no timezone info
+            game_time = game_time.replace(tzinfo=timezone.utc)
+        
+        # Compare with current time
+        now = datetime.now(timezone.utc)
+        return game_time < now  # Game has started if commence_time is in the past
+    
+    except (ValueError, AttributeError) as e:
+        # If parsing fails, assume not live (safer to include than exclude)
+        return False
+
+def load_and_match_games(sport: str) -> Tuple[List[Dict], int]:
     """
     Load data from both JSON files and match games.
-    Returns list of matched games with all necessary data.
+    Excludes live games (games that have already started).
+    
+    Returns:
+        Tuple of (matched_games, excluded_live_count)
     """
     config = SPORT_CONFIG[sport]
     
@@ -384,6 +493,7 @@ def load_and_match_games(sport: str) -> List[Dict]:
     
     matched_games = []
     matched_event_ticks = set()  # Track matched events to avoid duplicates
+    excluded_live_count = 0  # Count games excluded because they're live
     
     # Get sport-specific team mapping
     sport_mapping = KALSHI_TO_FULL_TEAM.get(sport, {})
@@ -541,17 +651,25 @@ def load_and_match_games(sport: str) -> List[Dict]:
             # Both markets must be from the same event
             if away_event == home_event and away_event and away_event not in matched_event_ticks:
                 matched_event_ticks.add(away_event)
+                
+                # Check if game is live (has started) - exclude it if so
+                commence_time = odds_info.get("commence_time")
+                if is_game_live(commence_time):
+                    # Skip live games - too risky
+                    excluded_live_count += 1
+                    continue
+                
                 matched_games.append({
                     "event_ticker": away_event,
                     "away_team": away_team_odds,
                     "home_team": home_team_odds,
-                    "commence_time": odds_info.get("commence_time"),
+                    "commence_time": commence_time,
                     "away_kalshi_market": away_kalshi_market,
                     "home_kalshi_market": home_kalshi_market,
                     "odds_data": odds_info,
                 })
     
-    return matched_games
+    return matched_games, excluded_live_count
 
 def get_average_sportsbook_odds(game: Dict, team_name: str) -> Tuple[Optional[float], int]:
     """
@@ -734,8 +852,38 @@ def generate_opportunity_table(opp: Dict) -> str:
     
     # Strategy line - always Kalshi, always unhedged
     bet_team_name = opp.get('bet_team_name', away_team if opp.get('bet_team') == 'away' else home_team)
+    bet_team = opp.get('bet_team', 'away')
     strategy_text = f"{Fore.MAGENTA}Strategy:{Style.RESET_ALL} Bet ${100:.0f} on {Fore.GREEN}{bet_team_name}{Style.RESET_ALL} via {Fore.BLUE}Kalshi{Style.RESET_ALL} {Fore.RED}(NO HEDGE){Style.RESET_ALL}"
     lines.append(strategy_text)
+    
+    # Calculate maximum Kalshi price that still yields EV >= $3
+    bet_amount = opp.get('total_investment', 100.0)
+    if bet_team == 'away':
+        prob_bet_team_wins = away_prob
+        prob_opponent_wins = home_prob
+        current_price = away_kalshi_price
+    else:
+        prob_bet_team_wins = home_prob
+        prob_opponent_wins = away_prob
+        current_price = home_kalshi_price
+    
+    max_price_cents = calculate_max_kalshi_price_for_ev(
+        bet_amount,
+        prob_bet_team_wins,
+        prob_opponent_wins,
+        min_ev=3.0
+    )
+    
+    if max_price_cents is not None and max_price_cents > current_price:
+        max_price_text = f"{Fore.CYAN}Max Price (EV≥$3):{Style.RESET_ALL} {Fore.YELLOW}{max_price_cents}c{Style.RESET_ALL} (current: {current_price:.0f}c, you can pay up to {max_price_cents}c)"
+        lines.append(max_price_text)
+    elif max_price_cents is not None:
+        max_price_text = f"{Fore.CYAN}Max Price (EV≥$3):{Style.RESET_ALL} {Fore.YELLOW}{max_price_cents}c{Style.RESET_ALL} (current: {current_price:.0f}c)"
+        lines.append(max_price_text)
+    else:
+        max_price_text = f"{Fore.RED}Max Price (EV≥$3):{Style.RESET_ALL} No price yields EV≥$3"
+        lines.append(max_price_text)
+    
     lines.append("")  # Blank line for spacing
     
     # Expected Value breakdown
@@ -806,7 +954,7 @@ def process_sport(sport: str) -> Optional[Dict]:
     if not os.path.exists(odds_file):
         return None
     try:
-        matched_games = load_and_match_games(sport)
+        matched_games, excluded_live_count = load_and_match_games(sport)
         
         # Load odds data to show how many games The Odds API had
         odds_file = os.path.join(DATA_DIR, config["odds_file"])
@@ -903,15 +1051,69 @@ def process_sport(sport: str) -> Optional[Dict]:
         "total_kalshi_games": total_kalshi_games,
         "total_odds_games": total_odds_games,
         "odds_games_with_teams": odds_games_with_teams,
+        "excluded_live_games": excluded_live_count,
         "opportunities": opportunities,
         "total_opportunities": len(opportunities),
     }
+
+def refresh_all_data(skip_refresh: bool = False) -> bool:
+    """
+    Refresh all data by running refresh_all_data.py.
+    
+    Args:
+        skip_refresh: If True, skip the refresh step
+    
+    Returns:
+        True if refresh was successful or skipped, False if refresh failed
+    """
+    if skip_refresh:
+        print(f"{Fore.YELLOW}Skipping data refresh (--no-refresh flag used).{Style.RESET_ALL}")
+        return True
+    
+    print(f"{Fore.CYAN}{Style.BRIGHT}Refreshing all data to ensure freshness...{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}{'='*80}{Style.RESET_ALL}\n")
+    
+    refresh_script = os.path.join(SCRIPTS_DIR, "refresh_all_data.py")
+    
+    try:
+        # Explicitly pass environment variables to ensure API key is available
+        env = os.environ.copy()
+        result = subprocess.run(
+            [sys.executable, refresh_script],
+            cwd=PROJECT_ROOT,
+            env=env,
+            capture_output=False,  # Show output in real-time
+            text=True
+        )
+        
+        if result.returncode == 0:
+            print(f"\n{Fore.GREEN}✓ Data refresh completed successfully!{Style.RESET_ALL}\n")
+            return True
+        else:
+            print(f"\n{Fore.YELLOW}⚠ Data refresh completed with warnings. Continuing with existing data...{Style.RESET_ALL}\n")
+            return True  # Continue anyway - existing data might still be usable
+    except Exception as e:
+        print(f"\n{Fore.RED}✗ Error refreshing data: {e}{Style.RESET_ALL}")
+        print(f"{Fore.YELLOW}Continuing with existing data...{Style.RESET_ALL}\n")
+        return True  # Continue anyway - existing data might still be usable
 
 def main():
     """
     Main function to find positive EV opportunities.
     If no sport argument is provided, processes all sports.
+    
+    Command line arguments:
+        <sport> - Process only the specified sport
+        --no-refresh - Skip automatic data refresh
     """
+    # Check for --no-refresh flag
+    skip_refresh = "--no-refresh" in sys.argv
+    if skip_refresh:
+        sys.argv.remove("--no-refresh")
+    
+    # Refresh data before analysis (unless --no-refresh flag is used)
+    refresh_all_data(skip_refresh=skip_refresh)
+    
     # If sport argument provided, process only that sport
     if len(sys.argv) >= 2:
         sport = sys.argv[1].lower()
@@ -929,12 +1131,15 @@ def main():
         total_opps = len(result['opportunities'])
         total_kalshi = result.get('total_kalshi_games', 0)
         total_odds = result.get('total_odds_games', 0)
+        excluded_live = result.get('excluded_live_games', 0)
         
         summary_border = f"{Fore.CYAN}{'='*80}{Style.RESET_ALL}"
         print(f"\n{summary_border}")
         summary_text = f"{Fore.CYAN}{Style.BRIGHT}SUMMARY ({result['sport_name']}):{Style.RESET_ALL}"
         summary_text += f"\n  {Fore.YELLOW}Total Kalshi games:{Style.RESET_ALL} {total_kalshi}"
         summary_text += f"\n  {Fore.YELLOW}Total Sportsbook games:{Style.RESET_ALL} {total_odds}"
+        if excluded_live > 0:
+            summary_text += f"\n  {Fore.RED}Excluded live games:{Style.RESET_ALL} {excluded_live} {Fore.CYAN}(games that have started){Style.RESET_ALL}"
         summary_text += f"\n  {Fore.YELLOW}Matched & Analyzed:{Style.RESET_ALL} {total_games}"
         summary_text += f"\n  {Fore.GREEN}Positive EV opportunities:{Style.RESET_ALL} {total_opps}"
         if total_games > 0:
@@ -977,6 +1182,7 @@ def main():
     total_kalshi_games = sum(result.get('total_kalshi_games', 0) for result in all_results)
     total_odds_games = sum(result.get('total_odds_games', 0) for result in all_results)
     total_odds_with_teams = sum(result.get('odds_games_with_teams', 0) for result in all_results)
+    total_excluded_live = sum(result.get('excluded_live_games', 0) for result in all_results)
     
     # Collect all opportunities across all sports
     all_opps = []
@@ -993,6 +1199,8 @@ def main():
     summary_text += f"\n  {Fore.YELLOW}Total Sportsbook games:{Style.RESET_ALL} {total_odds_games}"
     if total_odds_with_teams != total_odds_games:
         summary_text += f" ({Fore.CYAN}{total_odds_with_teams} with team data{Style.RESET_ALL})"
+    if total_excluded_live > 0:
+        summary_text += f"\n  {Fore.RED}Excluded live games:{Style.RESET_ALL} {total_excluded_live} {Fore.CYAN}(games that have started){Style.RESET_ALL}"
     summary_text += f"\n  {Fore.YELLOW}Matched & Analyzed:{Style.RESET_ALL} {total_games_analyzed}"
     if total_odds_with_teams > 0:
         match_rate = (total_games_analyzed / total_odds_with_teams) * 100
